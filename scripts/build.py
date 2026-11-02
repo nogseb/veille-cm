@@ -535,7 +535,7 @@ def archives_body(ctx):
         status = "Édition courante" if i == 0 else "Archive"
         href = ctx.href("editions/" + ed["id"] + "/") if ctx.mode == "site" else "#veille"
         cards += f'<a class="tile arch" href="{href}"><span class="label label-red">{t(status)} · {t(ed["dateLabel"])}</span><h2>{t(ed["title"])}</h2><p>Fenêtre du {t(ed["period"])} · {len(ed["signals"])} signaux · {len(ed["actions"])} suites · {len(ed["agenda"])} échéances</p></a>'
-    note = "Aucune édition antérieure : l’édition pilote ouvre la série. Aucune archive fictive n’est créée." if len(EDITIONS) == 1 else f"{len(EDITIONS) - 1} édition(s) antérieure(s), conservées avec leurs sources et leurs limites."
+    note = "Aucune édition antérieure : la première édition ouvre la série. Aucune archive fictive n’est créée." if len(EDITIONS) == 1 else f"{len(EDITIONS) - 1} édition(s) antérieure(s), conservées avec leurs sources et leurs limites."
     return page_hero("La mémoire de la veille", "Les éditions.<br><span>Sans perdre le fil.</span>", "Chaque édition garde une page permanente, avec sa fenêtre, ses sources, ses limites et ses suites.") + f'<section class="sec"><div class="bento">{cards}<div class="arch-note">{t(note)}</div></div></section>'
 
 

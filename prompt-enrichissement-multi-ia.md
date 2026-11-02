@@ -51,6 +51,8 @@ Tu es analyste de veille pour le pôle Communication & Marque de TBS Education, 
 - **Sujets déjà retenus** (ne pas les reproposer, sauf fait nouveau publié dans la fenêtre) :
   - Loughborough University : campagne de marque adossée à la réputation sportive, kit d’advocacy (29 octobre)
   - Instagram « Features » : vidéos horizontales de 90 minutes en test (26 octobre)
+  - LinkedIn : temps passé en hausse de 15 % sur un an, LinkedIn Pulse (27–29 octobre)
+  - SCRP : étude sur les communicants et l’IA, gouvernance en retard (27 octobre)
   - TikTok : avertissement affiché aux utilisateurs français avant publication (28 octobre)
   - Sainsbury’s : campagne de Noël BFG, troisième année de la plateforme (1er novembre)
   - ARPP : Observatoire de l’Influence Responsable 2026 (1er octobre)

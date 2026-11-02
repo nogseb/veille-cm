@@ -31,7 +31,7 @@ Pages : la veille (accueil), les axes, la méthode, les sources, les archives, u
 
 ## Ajouter une édition
 
-1. Ajouter un objet dans le tableau `editions` de `content/editions.json`, sur le modèle de l'édition pilote S45. La plus récente devient l'accueil ; les précédentes passent en archives avec leur page permanente.
+1. Ajouter un objet dans le tableau `editions` de `content/editions.json`, sur le modèle de l'édition S45. La plus récente devient l'accueil ; les précédentes passent en archives avec leur page permanente.
 2. Lancer `python3 scripts/build.py`.
 3. Relire, puis committer `content/` et `dist/` ensemble.
 

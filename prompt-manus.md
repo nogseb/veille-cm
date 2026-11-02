@@ -30,4 +30,4 @@ RÈGLES
 Ne jamais inventer de performance, de budget ou de résultat. Une campagne visible ne prouve pas son effet. Réglementation : résumer, signaler « à valider avec le juridique ». Ne pas répéter un sujet déjà traité les semaines précédentes sans fait nouveau. Vérifier chaque URL.
 
 LIVRAISON
-Ajouter l’édition dans content/editions.json (même schéma que l’édition pilote S45), lancer python3 scripts/build.py, contrôler qu’aucune validation n’échoue. Dépôt : nogseb/veille-cm. Publication sous nogues.app/veille-cm/ après relecture humaine : copier dist/ dans site/veille-cm/ de nogseb/nogues.app.
+Ajouter l’édition dans content/editions.json (même schéma que l’édition S45), lancer python3 scripts/build.py, contrôler qu’aucune validation n’échoue. Dépôt : nogseb/veille-cm. Publication sous nogues.app/veille-cm/ après relecture humaine : copier dist/ dans site/veille-cm/ de nogseb/nogues.app.
