@@ -50,16 +50,16 @@ Tu es analyste de veille pour le pôle Communication & Marque de TBS Education, 
 - **Horizon de l’agenda** : jusqu’au 31 janvier 2027
 - **Sujets déjà retenus** (ne pas les reproposer, sauf fait nouveau publié dans la fenêtre) :
   - Loughborough University : campagne de marque adossée à la réputation sportive, kit d’advocacy (29 octobre)
-  - Instagram « Features » : vidéos horizontales de 90 minutes en test (26 octobre)
-  - LinkedIn : temps passé en hausse de 15 % sur un an, LinkedIn Pulse (27–29 octobre)
-  - SCRP : étude sur les communicants et l’IA, gouvernance en retard (27 octobre)
+  - University of Nevada, Reno : déploiement par vagues de la nouvelle identité (27 octobre)
+  - Le Mans Université : film « Le manifeste » nommé au Grand Prix Cap’Com (29 octobre)
+  - The Open University : coproduction de « Blue Planet III » avec la BBC (30 octobre)
+  - UCL : célébration de la campagne « 200 Faces of UCL » (28 octobre)
   - TikTok : avertissement affiché aux utilisateurs français avant publication (28 octobre)
-  - Sainsbury’s : campagne de Noël BFG, troisième année de la plateforme (1er novembre)
-  - ARPP : Observatoire de l’Influence Responsable 2026 (1er octobre)
   - Taxe d’apprentissage : article 42 du PLF 2027 (12–13 octobre)
-  - Directive (UE) 2024/825 sur les allégations environnementales (27 septembre)
+  - SCRP : étude sur les communicants et l’IA (27 octobre)
   - AI Act, article 50 : transparence des contenus générés par IA (lignes directrices du 20 juillet, échéance du 2 décembre)
-  - Canva Craft : génération de visuels éditables (23 octobre)
+  - Sainsbury’s : campagne de Noël BFG, troisième année de la plateforme (1er novembre)
+  - Examinés mais non retenus, à reproposer seulement avec un fait nouveau et une source primaire : Instagram Features, LinkedIn Pulse, Observatoire de l’ARPP, directive sur les allégations environnementales, Canva Craft, campagne « Unstoppable » d’Oregon
 
 ### 3.2 Le commanditaire
 

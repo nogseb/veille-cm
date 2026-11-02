@@ -129,38 +129,39 @@
   "editions": [
     {
       "id": "2026-11-02-s45",
-      "title": "Incarner la marque, outiller les relais, rester transparent",
+      "title": "La preuve incarnée, des relais outillés, une IA encadrée",
       "date": "2026-11-02",
       "dateLabel": "2 novembre 2026",
       "period": "26 octobre – 1er novembre 2026",
       "periodStart": "2026-10-26",
       "periodEnd": "2026-11-01",
       "status": "S45 · Première édition",
-      "intro": "La semaine place la preuve incarnée au cœur des récits de marque. Loughborough fait de sa réputation sportive la porte d’entrée d’un récit plus large et outille ses relais ; Sainsbury’s reconduit une plateforme portée par une collaboratrice. LinkedIn gagne du temps d’attention, Instagram teste la vidéo longue et TikTok alerte ses utilisateurs français dans un climat de tension. Les règles de transparence se resserrent sur l’IA, l’influence et les allégations environnementales, quand une étude canadienne montre des communicants très équipés en IA mais peu encadrés. L’article 42 du PLF 2027 pèse sur la campagne taxe d’apprentissage.",
-      "stake": "Trois lectures pour le pôle : équiper les relais internes pour faire progresser la share of voice au-delà des comptes officiels, en commençant par LinkedIn ; fixer, avant de passer la Content Factory à l’échelle, une règle commune d’étiquetage et de relecture des contenus produits avec l’IA ; préparer la campagne taxe d’apprentissage 2027 selon l’issue de l’article 42. L’agenda des 90 prochains jours sert l’objectif d’anticipation : quatre salons toulousains, le calendrier Parcoursup 2027 et deux échéances réglementaires.",
+      "intro": "La semaine place la preuve incarnée au cœur des récits de marque. Loughborough ouvre sa campagne par son excellence sportive et outille ses relais ; Nevada déploie sa nouvelle identité par vagues ; UCL transforme 200 portraits en expérience collective ; Sainsbury’s reconduit une plateforme portée par une collaboratrice. La recherche devient récit, du film manifeste du Mans au documentaire coproduit par l’Open University. TikTok alerte ses utilisateurs français dans un climat de tension. L’usage de l’IA progresse plus vite que sa gouvernance, alors que l’AI Act impose la transparence.",
+      "stake": "Trois lectures pour le pôle : équiper les relais internes et le Brand center pour porter la campagne 360, avec un déploiement par vagues ; fixer, avant de passer la Content Factory à l’échelle, une règle commune d’étiquetage et de relecture des contenus produits avec l’IA ; préparer la campagne taxe d’apprentissage 2027 selon l’issue de l’article 42. Les contenus experts gagnent à partir des enjeux de société avant de présenter les laboratoires. L’agenda des 90 jours sert l’objectif d’anticipation : salons toulousains, Forum Cap’Com, calendrier Parcoursup 2027 et deux échéances réglementaires.",
       "featuredSignal": "loughborough",
       "featuredFact": "Le sport comme porte d’entrée",
       "featuredTitle": "Loughborough adosse sa campagne de marque à sa réputation sportive pour raconter tout le reste.",
       "featuredNote": "Lancement externe début novembre ; un kit d’advocacy outille personnels et étudiants. L’université ne publie aucun indicateur de mesure.",
       "featuredLabel": "Marque & corporate · annonce du 29 octobre 2026",
       "word": {
-        "term": "Advocacy",
-        "definition": "Mobilisation organisée de collaborateurs, d’étudiants ou d’alumni pour relayer la parole d’une marque sur leurs propres réseaux, à partir de contenus et de règles fournis par l’organisation.",
-        "context": "Loughborough accompagne sa nouvelle campagne d’un Brand Campaign Advocacy Toolkit destiné aux personnels et aux étudiants.",
-        "caution": "Quand un relais reçoit une contrepartie, les règles de transparence de l’influence commerciale peuvent s’appliquer.",
-        "signal": "loughborough"
+        "term": "Preuve incarnée",
+        "definition": "Élément de récit qui rend une promesse institutionnelle concrète à travers une personne, une action ou un résultat vérifiable.",
+        "context": "Loughborough, UCL et Sainsbury’s rendent leurs promesses tangibles par des personnes réelles : athlètes, membres de la communauté, collaboratrice.",
+        "caution": "Un témoignage n’est ni un échantillon représentatif ni la preuve d’un effet sur la considération de marque.",
+        "signal": "ucl-faces"
       },
       "kpiLinks": {
         "consideration": [
           "loughborough",
-          "sainsburys",
-          "ecgt"
+          "ucl-faces",
+          "lemans-manifeste",
+          "sainsburys"
         ],
         "sov": [
           "loughborough",
-          "linkedin-temps-passe",
-          "instagram-features",
-          "arpp"
+          "nevada-identite-deploiement",
+          "open-university-blue-planet",
+          "ucl-faces"
         ],
         "anticipation": [
           "ai-act",
@@ -216,68 +217,134 @@
           ]
         },
         {
-          "id": "canva-craft",
-          "axis": "contenus",
-          "actor": "Canva",
-          "label": "Tester",
-          "priority": "À surveiller",
-          "roadmap": "Enjeu · Industrialiser & mesurer",
-          "status": "Lancement produit",
-          "timing": "context",
-          "publicationDate": "2026-10-23",
-          "dateLabel": "Annonce : 23 octobre 2026, trois jours avant la fenêtre",
-          "title": "Canva Craft : des visuels générés, mais éditables comme une maquette",
-          "fact": "Canva lance Craft, un modèle de génération d’images présenté comme entraîné sur des créations graphiques et des modèles conçus par des humains : affiches, publications sociales, présentations, infographies. Accessible à tous les utilisateurs depuis Dream Lab, il produit des visuels jusqu’à 2K que Canva Magic permet ensuite de modifier : textes, couleurs, positions, dimensions. Une API et un usage depuis ChatGPT ou Gemini via MCP sont annoncés.",
-          "verdict": "L’intérêt pour une équipe de marque tient à l’éditabilité : un visuel généré redevient une maquette modifiable, donc contrôlable par la charte.",
-          "implication": "Pour la Content Factory, tester Craft sur des déclinaisons à faible risque (formats sociaux, visuels d’événements) au regard de la nouvelle direction artistique premium ; définir qui peut générer, à partir de quels modèles de marque, et qui valide, pour que la vitesse ne fragmente pas l’identité.",
-          "limits": "Capacités annoncées par Canva, sans comparatif indépendant. Conditions de licence, d’usage commercial et formules concernées à vérifier.",
+          "id": "nevada-identite-deploiement",
+          "axis": "marque",
+          "actor": "University of Nevada, Reno",
+          "label": "Comparer",
+          "priority": "Important",
+          "roadmap": "Enjeu · Structurer",
+          "status": "Message de la présidence sur le déploiement d’une nouvelle identité",
+          "timing": "week",
+          "publicationDate": "2026-10-27",
+          "dateLabel": "Message de la présidence : 27 octobre 2026 · identité dévoilée le 20 octobre 2026",
+          "title": "Nevada déploie sa nouvelle marque par vagues, ressources à l’appui",
+          "fact": "Dans un message du 27 octobre à sa communauté, l’University of Nevada, Reno détaille la mise en œuvre de l’identité dévoilée le 20 octobre, au terme de dix-huit mois d’études, d’écoute des parties prenantes et de tests. La transition sera progressive, calée autant que possible sur les cycles habituels de renouvellement des supports. L’université met à disposition règles de marque, signatures électroniques, fonds de visioconférence, papeterie et formations pour les équipes.",
+          "verdict": "La nouveauté est moins le logo que son mode de déploiement : ressources prêtes à l’emploi, appropriation interne et calendrier étalé.",
+          "implication": "Comparer ce dispositif à la construction du Brand center : hiérarchie des ressources, kits réutilisables, formation des contributeurs, règles de renouvellement des supports. Tester un déploiement par vagues pour la nouvelle direction artistique et les kits salons, sans présumer d’une économie mécanique.",
+          "limits": "Aucun budget, taux d’adoption ni résultat d’image n’est publié. Le message a été lu par la contribution ChatGPT ; le site refuse la lecture automatisée, mais sa publication du 27 octobre et le dévoilement du 20 octobre sont confirmés par recherche.",
           "sources": [
             {
-              "name": "Canva Craft : son IA de génération d’images arrive dans Dream Lab",
-              "publisher": "Blog Nouvelles Technologies",
-              "date": "23 octobre 2026",
-              "url": "https://www.blog-nouvelles-technologies.fr/389634/canva-craft-modele-ia-generation-images/",
-              "type": "Presse spécialisée"
+              "name": "University’s New Brand Identity",
+              "publisher": "University of Nevada, Reno — message de la présidence",
+              "date": "27 octobre 2026",
+              "url": "https://www.unr.edu/nevada-today/news/president-messages/2026-10-27-universitys-new-brand-identity",
+              "type": "Source primaire"
             },
             {
-              "name": "Canva Releases AI Image Generator That Wasn’t Trained on Photographs",
-              "publisher": "PetaPixel",
-              "date": "23 octobre 2026",
-              "url": "https://petapixel.com/2026/10/23/canva-releases-ai-image-generator-that-wasnt-trained-on-photographs/",
-              "type": "Presse spécialisée — corroboration"
+              "name": "Honoring tradition, embracing tomorrow: University of Nevada, Reno unveils new brand",
+              "publisher": "Nevada Today",
+              "date": "Octobre 2026",
+              "url": "https://www.unr.edu/nevada-today/news/2026/university-unveils-new-brand",
+              "type": "Source primaire — dévoilement"
             }
           ]
         },
         {
-          "id": "instagram-features",
-          "axis": "influence",
-          "actor": "Instagram (Meta)",
-          "label": "Surveiller",
-          "priority": "À surveiller",
-          "roadmap": "Share of voice",
-          "status": "Test de format, hors France",
+          "id": "lemans-manifeste",
+          "axis": "marque",
+          "actor": "Le Mans Université / Cap’Com",
+          "label": "S’inspirer",
+          "priority": "Important",
+          "roadmap": "Considération",
+          "status": "Nomination à un prix professionnel",
           "timing": "week",
-          "publicationDate": "2026-10-26",
-          "dateLabel": "Annonce relayée : 26 octobre 2026 · test au Brésil, extension annoncée aux États-Unis",
-          "title": "Instagram teste des vidéos horizontales de 90 minutes, découpables en Reels",
-          "fact": "Instagram teste « Features », des vidéos horizontales jusqu’à 90 minutes publiées sur le profil, d’abord au Brésil, avec une extension annoncée à des dizaines de milliers de créateurs américains dans les mois à venir. Des extraits courts peuvent être publiés en Reels qui renvoient vers la vidéo longue, et une version TV de l’application est en préparation. Adam Mosseri reconnaît avoir longtemps été opposé à la vidéo longue sur Instagram ; le modèle de monétisation n’est pas arrêté.",
-          "verdict": "Instagram rapproche format long, extraits courts et écran TV. Pour une marque, l’intérêt est la circulation entre l’extrait et la version longue, pas la durée en soi.",
-          "implication": "Pour la mini-série « Deux vies. Une trajectoire. » et les prochains formats de marque, penser chaque épisode en version longue et en extraits dès le tournage, afin d’être prêt si le format ouvre en France. Aucune réorganisation de la ligne sociale n’est justifiée à ce stade.",
-          "limits": "Test limité au Brésil puis aux États-Unis, sans date pour la France. Sources : presse spécialisée ; aucun communiqué officiel d’Instagram consulté.",
+          "publicationDate": "2026-10-29",
+          "dateLabel": "Annonce des nommés : 29 octobre 2026 · palmarès : 2 décembre 2026 à Biarritz",
+          "title": "Le film manifeste du Mans Université nommé au Grand Prix Cap’Com",
+          "fact": "Parmi les 28 campagnes nommées au Grand Prix Cap’Com 2026, « Le manifeste » du Mans Université concourt en communication institutionnelle. Le film rappelle que la recherche est essentielle à l’avenir des sociétés et met en valeur l’excellence et la diversité des travaux de l’établissement. Il a été diffusé en salles de cinéma, lors d’événements, puis sur YouTube et les réseaux sociaux. C’est le seul établissement d’enseignement supérieur nommé ; le palmarès sera remis le 2 décembre.",
+          "verdict": "Une université fait de sa recherche un argument d’intérêt général, porté par un film pensé pour plusieurs lieux de diffusion.",
+          "implication": "Pour les contenus experts : partir des enjeux de société auxquels répond la recherche de TBS Education avant de présenter laboratoires et chaires, et prévoir des formats courts dérivés pour les prises de parole et les événements. Le palmarès du 2 décembre est un repère à suivre.",
+          "limits": "Le film est antérieur à la fenêtre : le fait nouveau est la nomination, qui ne vaut ni prix ni preuve d’efficacité. La page des nommés n’est pas datée ; la date du 29 octobre provient de l’annonce relevée par la contribution ChatGPT.",
           "sources": [
             {
-              "name": "Instagram “Features” longer uploads, clips as Reels",
-              "publisher": "Tubefilter",
-              "date": "26 octobre 2026",
-              "url": "https://www.tubefilter.com/2026/10/26/instagram-features-longer-uploads-clips-as-reels/",
-              "type": "Presse spécialisée"
+              "name": "Les nommés du Grand Prix Cap’Com 2026",
+              "publisher": "Cap’Com",
+              "date": "Page consultée le 2 novembre 2026",
+              "url": "https://www.cap-com.org/les-nommes-du-grand-prix-capcom-2026",
+              "type": "Source primaire"
             },
             {
-              "name": "Instagram Features tests 90-minute long-form videos",
-              "publisher": "Android Headlines",
-              "date": "26 octobre 2026",
-              "url": "https://www.androidheadlines.com/2026/10/instagram-features-tests-90-minute-long-form-videos.html",
-              "type": "Presse spécialisée — corroboration"
+              "name": "Les meilleures campagnes de communication publique de 2026",
+              "publisher": "Cap’Com",
+              "date": "29 octobre 2026",
+              "url": "https://www.cap-com.org/actualit%C3%A9s/les-meilleures-campagnes-de-communication-publique-de-2026",
+              "type": "Source primaire — annonce"
+            },
+            {
+              "name": "Le Mans université lance son film « Manifeste » pour sensibiliser le grand public à l’importance de la recherche",
+              "publisher": "AEF info",
+              "date": "Lancement du film, antérieur à la fenêtre",
+              "url": "https://www.aefinfo.fr/depeche/754523-lemans-universite-lance-son-film-manifeste-pour-sensibiliser-le-grand-public-a-limportance-de-la-recherche",
+              "type": "Presse spécialisée — contexte"
+            }
+          ]
+        },
+        {
+          "id": "open-university-blue-planet",
+          "axis": "contenus",
+          "actor": "The Open University / BBC",
+          "label": "Comparer",
+          "priority": "À surveiller",
+          "roadmap": "Enjeu · Monter en puissance",
+          "status": "Coproduction audiovisuelle grand public",
+          "timing": "week",
+          "publicationDate": "2026-10-30",
+          "dateLabel": "Publication : 30 octobre 2026 · première diffusion : dimanche 1er novembre 2026, BBC One",
+          "title": "L’Open University coproduit « Blue Planet III » avec la BBC",
+          "fact": "Le 30 octobre, The Open University présente « Blue Planet III », série documentaire coproduite avec la BBC et narrée par David Attenborough, dont la diffusion commence le 1er novembre sur BBC One et iPlayer. Trois de ses universitaires, Philip Sexton, Mark Hintze et Tom Stubbs, sont consultants scientifiques. L’université associe la série à ses disciplines et à ses contenus en ligne, et propose une affiche pédagogique gratuite, « Explore our changing oceans ».",
+          "verdict": "Un partenariat éditorial grand public donne une visibilité nationale aux chercheurs et prolonge l’audience par des ressources réutilisables.",
+          "implication": "Pour le thought leadership et la valorisation de la recherche : identifier, à une échelle réaliste, un partenaire média ou culturel avec lequel coproduire un format thématique, en nommant les experts de TBS Education et en prévoyant un contenu dérivé utile au public.",
+          "limits": "Partenariat de long terme entre l’Open University et la BBC, sans équivalent immédiat pour une école de management. Budget, droits et retombées pour la marque ne sont pas publiés.",
+          "sources": [
+            {
+              "name": "Blue Planet III dives into the extraordinary world beneath our oceans",
+              "publisher": "The Open University — OU News",
+              "date": "30 octobre 2026",
+              "url": "https://www.open.ac.uk/blogs/news/around-ou/tv-radio/blue-planet-iii-dives-into-the-extraordinary-world-beneath-our-oceans/",
+              "type": "Source primaire"
+            }
+          ]
+        },
+        {
+          "id": "ucl-faces",
+          "axis": "evenements",
+          "actor": "University College London (UCL)",
+          "label": "S’inspirer",
+          "priority": "Important",
+          "roadmap": "Considération",
+          "status": "Événement de clôture d’une campagne de portraits",
+          "timing": "week",
+          "publicationDate": "2026-10-28",
+          "dateLabel": "Publication : 28 octobre 2026 · réception : 22 octobre 2026 · campagne lancée en février 2026",
+          "title": "UCL transforme 200 portraits en expérience collective",
+          "fact": "Le 28 octobre, UCL revient sur une réception organisée le 22 octobre pour plus de 200 invités autour de « 200 Faces of UCL », campagne de portraits lancée en février pour son bicentenaire : étudiants, personnels, diplômés et partenaires, d’hier et d’aujourd’hui. La soirée associe prises de parole, installations photographiques, application tactile consacrée aux portraits, illustrations réalisées en direct et temps d’échange entre les personnes représentées.",
+          "verdict": "Une série de contenus devient un système narratif partagé, prolongé par un moment collectif et des objets physiques.",
+          "implication": "Pour les événements et la Content Factory : prévoir dès la conception d’une série de portraits sa déclinaison en exposition sur campus et en temps fort où les personnes représentées deviennent relais. À tester avec la mini-série « Deux vies. Une trajectoire. » et les portraits d’alumni.",
+          "limits": "Le lancement de la campagne est antérieur à la fenêtre ; le fait nouveau est la célébration et son compte rendu. Aucun indicateur de notoriété ou de considération n’est publié. Page lue par la contribution ChatGPT, existence et date confirmées par recherche.",
+          "sources": [
+            {
+              "name": "Recognising the Faces of UCL: A bicentenary celebration",
+              "publisher": "UCL News",
+              "date": "28 octobre 2026",
+              "url": "https://www.ucl.ac.uk/news/2026/oct/recognising-faces-ucl-bicentenary-celebration",
+              "type": "Source primaire"
+            },
+            {
+              "name": "Meet the Faces of UCL",
+              "publisher": "UCL News",
+              "date": "Février 2026",
+              "url": "https://www.ucl.ac.uk/news/2026/feb/meet-faces-ucl",
+              "type": "Source primaire — lancement"
             }
           ]
         },
@@ -304,65 +371,6 @@
               "date": "28 octobre 2026",
               "url": "https://www.clubic.com/actualite-636469-fais-attention-a-ce-que-tu-publies-tiktok-met-en-garde-ses-utilisateurs-francais-sur-fond-d-offensive-contre-les-reseaux-sociaux.html",
               "type": "Presse spécialisée — constat direct"
-            }
-          ]
-        },
-        {
-          "id": "linkedin-temps-passe",
-          "axis": "influence",
-          "actor": "LinkedIn (Microsoft)",
-          "label": "Surveiller",
-          "priority": "À surveiller",
-          "roadmap": "Share of voice",
-          "status": "Chiffres trimestriels de plateforme",
-          "timing": "week",
-          "publicationDate": "2026-10-29",
-          "dateLabel": "Résultats Microsoft : 28 octobre 2026 · relais : 29 octobre 2026 · LinkedIn Pulse : 27 octobre 2026",
-          "title": "LinkedIn : le temps passé progresse de 15 % sur un an",
-          "fact": "Avec les résultats trimestriels de Microsoft du 28 octobre, LinkedIn indique un temps passé en hausse de 15 % sur un an et plus de 1,4 milliard de membres. Les publicités vidéo progressent de 25 % et celles qui mettent en avant des créateurs de 63 %. La veille, la plateforme a rebaptisé son Economic Graph « LinkedIn Pulse », un hub de données et d’analyses sur le travail et les compétences.",
-          "verdict": "LinkedIn consolide sa place de scène professionnelle, et l’attention y passe de plus en plus par des personnes plutôt que par des pages.",
-          "implication": "Pour le thought leadership : appuyer les prises de parole des experts et dirigeants de TBS Education sur des comptes personnels réguliers, relayés par la page de l’École, plutôt que sur la seule page institutionnelle. Le volet publicitaire (publicités portées par des créateurs) relève du pôle Growth, Digital & Data.",
-          "limits": "Chiffres communiqués par LinkedIn, sans détail par pays ni par type de compte ; le temps passé ne dit rien de la portée organique des pages d’établissement. Source : presse spécialisée reprenant le message du dirigeant de LinkedIn.",
-          "sources": [
-            {
-              "name": "LinkedIn increases user time, members and creator ads",
-              "publisher": "Social Media Today",
-              "date": "29 octobre 2026",
-              "url": "https://www.socialmediatoday.com/news/linkedin-increases-user-time-members-and-creator-ads/873266/",
-              "type": "Presse spécialisée"
-            },
-            {
-              "name": "LinkedIn launches data insights hub",
-              "publisher": "Social Media Today",
-              "date": "27 octobre 2026",
-              "url": "https://www.socialmediatoday.com/news/linkedin-launches-data-insights-hub/872972/",
-              "type": "Presse spécialisée"
-            }
-          ]
-        },
-        {
-          "id": "arpp",
-          "axis": "influence",
-          "actor": "ARPP",
-          "label": "Vérifier",
-          "priority": "Important",
-          "roadmap": "Share of voice",
-          "status": "Observatoire d’autorégulation",
-          "timing": "context",
-          "publicationDate": "2026-10-01",
-          "dateLabel": "Publication : 1er octobre 2026 · contenus analysés de décembre 2025 à août 2026",
-          "title": "Influence : deux fois moins de manquements chez les créateurs certifiés",
-          "fact": "L’Observatoire de l’Influence Responsable 2026 de l’ARPP porte sur environ 25 000 contenus dans quatre secteurs. Le taux de manquement à la transparence atteint 10 % chez les créateurs certifiés contre 18 % chez les non-certifiés. Les difficultés persistent dans les formats courts, stories et lives, et sur les contreparties non monétaires. Une option Sport du Certificat, lancée avec l’INSEP, réunit 40 athlètes de haut niveau.",
-          "verdict": "La transparence devient un critère de choix des partenaires, et les contreparties en nature restent la zone grise la plus fréquente.",
-          "implication": "Pour les partenariats avec des créateurs et le programme d’ambassadeurs, vérifier avec le juridique quand une contrepartie (invitation, accès, dotation) appelle une mention « collaboration commerciale », et privilégier les créateurs certifiés. L’option Sport concerne directement les profils de sportifs de haut niveau que l’École met en avant.",
-          "limits": "Secteurs observés hors enseignement supérieur (finance, beauté, jeux d’argent, alimentation) ; taux mesurés sur les contenus analysés, non exhaustifs. Le statut des ambassadeurs étudiants au regard du droit de l’influence n’est pas tranché ici.",
-          "sources": [
-            {
-              "name": "Observatoire de l’Influence Responsable de l’ARPP 2026",
-              "publisher": "ARPP",
-              "date": "1er octobre 2026",
-              "url": "https://www.arpp.org/actualite/observatoire-de-influence-responsable-de-arpp-2026/",
-              "type": "Étude — source primaire"
             }
           ]
         },
@@ -403,32 +411,6 @@
               "date": "29 septembre 2026",
               "url": "https://www.via-competences.fr/actualites/solde-de-la-taxe-dapprentissage-campagne-2027",
               "type": "Calendrier d’habilitation SOLTéA"
-            }
-          ]
-        },
-        {
-          "id": "ecgt",
-          "axis": "communautes",
-          "actor": "Union européenne · droit de la consommation",
-          "label": "Vérifier",
-          "priority": "Important",
-          "roadmap": "Considération (crédibilité)",
-          "status": "Directive applicable, transposition française en attente",
-          "timing": "context",
-          "publicationDate": "2026-09-28",
-          "dateLabel": "Échéance d’application : 27 septembre 2026 · analyse publiée le 28 septembre 2026",
-          "title": "Allégations environnementales : la directive s’applique, la France n’a pas transposé",
-          "fact": "La directive (UE) 2024/825 devait s’appliquer au 27 septembre 2026. Elle interdit notamment les allégations environnementales génériques non prouvées, les labels non fondés sur un système de certification et la neutralité carbone fondée sur la compensation. Le projet de loi de transposition, adopté par le Sénat en février 2026, n’a pas avancé à l’Assemblée ; le Code de la consommation sanctionne déjà les pratiques commerciales trompeuses.",
-          "verdict": "Le retard de transposition ne protège pas des pratiques trompeuses : le niveau de preuve attendu d’une communication responsable est déjà connu.",
-          "implication": "Pour la communication RSE et institutionnelle, inventorier les allégations environnementales (campus, événements, engagements, labels) et constituer un dossier de preuves daté ; remplacer les formulations génériques par des faits vérifiables, avec le pilotage RSE et le juridique.",
-          "limits": "Analyse d’un avocat, pas un avis juridique pour TBS Education. L’application du texte aux pratiques commerciales d’un établissement d’enseignement supérieur est à confirmer avec le juridique.",
-          "sources": [
-            {
-              "name": "Allégations environnementales : depuis le 27 septembre 2026, la directive s’applique, la France n’a pas transposé",
-              "publisher": "Village de la Justice",
-              "date": "28 septembre 2026",
-              "url": "https://www.village-justice.com/articles/allegations-environnementales-septembre-2026-directive-applique-france-pas,59252.html",
-              "type": "Analyse juridique"
             }
           ]
         },
@@ -547,23 +529,24 @@
           "text": "",
           "signals": [
             "loughborough",
-            "sainsburys",
-            "linkedin-temps-passe",
-            "instagram-features",
-            "tiktok-alerte",
-            "taxe-apprentissage"
+            "nevada-identite-deploiement",
+            "ucl-faces",
+            "lemans-manifeste",
+            "open-university-blue-planet",
+            "sainsburys"
           ]
         },
         {
           "id": "fil-rouge",
           "name": "Le fil rouge",
           "question": "Qu’est-ce qui relie les sujets ?",
-          "text": "Un même mouvement traverse l’édition : la marque se démontre par des personnes réelles, et ces personnes doivent être équipées et encadrées. Loughborough outille ses relais, Sainsbury’s fait d’une collaboratrice l’héroïne de sa plateforme, LinkedIn concentre l’attention sur des comptes de personnes. En face, l’ARPP montre que la transparence protège la confiance, l’AI Act fixe ce qui doit être signalé et la SCRP constate que la relecture reste rarement organisée.",
+          "text": "Un même mouvement traverse l’édition : la marque se démontre par des personnes réelles et des preuves visibles, et ces preuves doivent être outillées. Loughborough et Nevada équipent leurs relais et leurs équipes, UCL donne un corps à ses portraits, Le Mans et l’Open University placent leurs chercheurs au centre du récit. En face, l’AI Act et l’étude de la SCRP rappellent qu’une preuve n’est crédible que si l’on sait ce qui a été produit, par qui et avec quels outils.",
           "signals": [
             "loughborough",
-            "sainsburys",
-            "linkedin-temps-passe",
-            "arpp",
+            "nevada-identite-deploiement",
+            "ucl-faces",
+            "lemans-manifeste",
+            "open-university-blue-planet",
             "ai-act",
             "scrp-ia-communicants"
           ]
@@ -572,25 +555,25 @@
           "id": "tensions",
           "name": "Les tensions",
           "question": "Quelles dynamiques lire ensemble ?",
-          "text": "Deux tensions sont à lire ensemble. Vitesse contre maîtrise : Canva Craft et les formats longs d’Instagram poussent à produire davantage, alors que l’AI Act, la nouvelle direction artistique et le constat de la SCRP demandent un second regard avant diffusion. Dépendance contre résilience : la ligne sociale repose sur des plateformes dont l’accès, la modération et les règles d’âge évoluent vite en France.",
+          "text": "Deux tensions sont à lire ensemble. Événement contre continuité : les dispositifs qui marquent, chez UCL comme chez Sainsbury’s, sont pensés pour durer et se décliner, pas comme des coups isolés. Vitesse contre maîtrise : l’IA accélère la production et la modération des plateformes évolue vite en France, alors que la relecture des contenus générés reste rarement organisée.",
           "signals": [
-            "canva-craft",
-            "instagram-features",
+            "ucl-faces",
+            "sainsburys",
+            "tiktok-alerte",
             "scrp-ia-communicants",
-            "ai-act",
-            "tiktok-alerte"
+            "ai-act"
           ]
         },
         {
           "id": "concurrence",
           "name": "La lecture concurrentielle",
           "question": "Où se jouera la différenciation ?",
-          "text": "La bataille de la share of voice se déplace des comptes officiels vers les réseaux de relais : collaborateurs, enseignants, étudiants, alumni et créateurs. LinkedIn, où le temps passé progresse, en est le premier terrain pour une école de management. Les établissements qui livrent à leurs relais des kits, des règles de mention et des assets prêts à l’emploi gagnent en portée sans dépendre seulement des algorithmes. Cette lecture ne mesure pas la share of voice des concurrents.",
+          "text": "La différenciation se joue moins dans la signature que dans la capacité à faire porter la marque par d’autres : collaborateurs, chercheurs, étudiants, alumni et partenaires médias. Les établissements qui livrent kits, ressources et récits prêts à l’emploi, comme Nevada ou Loughborough, et qui ouvrent leur recherche au grand public, comme Le Mans ou l’Open University, gagnent en portée. Cette lecture ne mesure pas la share of voice des concurrents.",
           "signals": [
+            "nevada-identite-deploiement",
             "loughborough",
-            "linkedin-temps-passe",
-            "arpp",
-            "sainsburys"
+            "lemans-manifeste",
+            "open-university-blue-planet"
           ]
         }
       ],
@@ -618,6 +601,30 @@
           "source": {
             "publisher": "RedShark News",
             "url": "https://www.redsharknews.com/adobe-max-2026-preview-miami-beach"
+          }
+        },
+        {
+          "date": "2026-11-17",
+          "dateLabel": "17 novembre",
+          "title": "Giving Day de Loughborough University",
+          "why": "Voir à l’œuvre une mobilisation coordonnée des personnels, étudiants et alumni : visuels fournis, relais sociaux, code couleur commun.",
+          "axis": "communautes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Loughborough University",
+            "url": "https://lboro.ac.uk/internal/news/2026/october/giving-day-2026/"
+          }
+        },
+        {
+          "date": "2026-12-01",
+          "dateLabel": "1er – 3 décembre",
+          "title": "38e Forum Cap’Com, Biarritz",
+          "why": "Rendez-vous de la communication publique ; palmarès du Grand Prix le 2 décembre, où Le Mans Université est le seul établissement d’enseignement supérieur nommé.",
+          "axis": "marque",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Cap’Com",
+            "url": "https://www.cap-com.org/le-38e-forum-de-la-communication-publique-et-territoriale"
           }
         },
         {
@@ -736,7 +743,7 @@
           "title": "Adosser la campagne de marque 360 à un kit de relais",
           "owner": "Mission 01 Marque & corporate, avec 00 Référentiels & assets — proposé",
           "horizon": "Avant le lancement externe de la campagne 360",
-          "result": "Un kit dans le Brand center (messages clés, visuels, trois publications LinkedIn types, règles de mention) testé auprès d’un premier cercle de collaborateurs, enseignants et ambassadeurs.",
+          "result": "Un kit dans le Brand center (messages clés, visuels, trois publications types, règles de mention), déployé par vagues et testé auprès d’un premier cercle de collaborateurs, enseignants et ambassadeurs.",
           "signal": "loughborough"
         },
         {
@@ -755,16 +762,16 @@
         }
       ],
       "coverage": {
-        "marque": "Un signal : Loughborough annonce une campagne fondée sur sa réputation sportive. Les mouvements de marque des écoles françaises de la semaine sont suivis par la Veille Concurrents & ESR.",
-        "contenus": "Un contexte : Canva Craft (23 octobre), retenu pour son effet sur la production de déclinaisons.",
-        "influence": "Quatre signaux : LinkedIn (temps passé et LinkedIn Pulse), Instagram Features, l’avertissement de TikTok en France et l’Observatoire de l’ARPP (contexte du 1er octobre).",
-        "programmes": "Un contexte : l’article 42 du PLF 2027 sur le solde de la taxe d’apprentissage. Aucune évolution datée de l’examen parlementaire n’a été trouvée dans la fenêtre.",
-        "evenements": "Aucun signal retenu : aucune publication de la fenêtre n’a atteint le niveau de preuve requis. Quatre salons toulousains figurent dans l’agenda des 90 jours.",
-        "communautes": "Un contexte : la directive sur les allégations environnementales, applicable sans transposition française.",
-        "pilotage": "Un signal et un contexte : l’étude de la SCRP sur les communicants et l’IA (27 octobre) et l’article 50 de l’AI Act, applicable depuis le 2 août, avec une échéance le 2 décembre.",
+        "marque": "Trois signaux : Loughborough (cas d’école), le déploiement de la nouvelle marque de Nevada et la nomination du film manifeste du Mans Université au Grand Prix Cap’Com.",
+        "contenus": "Un signal : la coproduction de « Blue Planet III » par l’Open University et la BBC.",
+        "influence": "Un signal : l’avertissement de TikTok en France. Le test des vidéos longues d’Instagram, limité au Brésil et aux États-Unis, reste sous le seuil de consolidation.",
+        "programmes": "Un contexte : l’article 42 du PLF 2027 sur le solde de la taxe d’apprentissage, sans évolution datée dans la fenêtre.",
+        "evenements": "Un signal : la célébration des 200 portraits de UCL. Quatre salons toulousains et le Forum Cap’Com figurent dans l’agenda.",
+        "communautes": "Aucun signal au-dessus du seuil de consolidation. Le Giving Day de Loughborough, le 17 novembre, figure dans l’agenda.",
+        "pilotage": "Un signal et un contexte : l’étude de la SCRP sur les communicants et l’IA (27 octobre) et l’article 50 de l’AI Act, avec une échéance le 2 décembre.",
         "horschamp": "Une inspiration : Sainsbury’s et sa plateforme de Noël reconduite pour la troisième année."
       },
-      "notice": "Première édition de 11 signaux : 6 publications de la fenêtre et 5 contextes antérieurs, explicitement identifiés et retenus parce qu’ils appellent une décision du pôle dans les prochaines semaines. Sept axes sur huit sont couverts ; aucun sujet Événements n’a atteint le niveau de preuve requis. Collecte menée axe par axe selon les quatre angles du prompt multi-IA, puis contre-vérifiée. Les sujets d’offre, d’admission et d’acquisition sont exclus : ils relèvent des pôles Marketing de l’offre et Growth, Digital & Data, ou de la Veille Concurrents & ESR."
+      "notice": "Édition consolidée de 10 signaux : 8 publications de la fenêtre et 2 contextes antérieurs. Elle fusionne la collecte de Claude et les contributions de ChatGPT (campagnes et cas d’école) et de Gemini (IA de création et réglementation), notées sur 11 points puis contre-vérifiées source par source. Les quatre propositions de Gemini n’ont pas été retenues faute de source vérifiable. Sept axes sur huit sont couverts. Les sujets d’offre, d’admission et d’acquisition sont exclus : ils relèvent des pôles Marketing de l’offre et Growth, Digital & Data, ou de la Veille Concurrents & ESR."
     }
   ]
 }
