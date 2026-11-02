@@ -27,6 +27,7 @@ Pages : la veille (accueil), les axes, la méthode, les sources, les archives, u
 | `scripts/social.html` | Source de l'image de partage `assets/social.png` |
 | `dist/` | Site compilé, à publier tel quel sous `/veille-cm/` |
 | `prompt-manus.md` | Prompt de production hebdomadaire Manus.im (moins de 4 500 caractères) |
+| `prompt-enrichissement-multi-ia.md` | Prompt commun et modules de focus pour faire contribuer ChatGPT, Perplexity, Gemini, Mistral et Claude, avec la grille de consolidation |
 
 ## Ajouter une édition
 
