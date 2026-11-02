@@ -1,0 +1,3 @@
+DirectoryIndex index.html
+ErrorDocument 404 /veille-cm/404.html
+Options -Indexes

@@ -52,6 +52,13 @@
       "featuredTitle": "Loughborough adosse sa campagne de marque à sa réputation sportive pour raconter tout le reste.",
       "featuredNote": "Lancement externe début novembre ; un kit d’advocacy outille personnels et étudiants. L’université ne publie aucun indicateur de mesure.",
       "featuredLabel": "Marque & corporate · annonce du 29 octobre 2026",
+      "word": {
+        "term": "Advocacy",
+        "definition": "Mobilisation organisée de collaborateurs, d’étudiants ou d’alumni pour relayer la parole d’une marque sur leurs propres réseaux, à partir de contenus et de règles fournis par l’organisation.",
+        "context": "Loughborough accompagne sa nouvelle campagne d’un Brand Campaign Advocacy Toolkit destiné aux personnels et aux étudiants.",
+        "caution": "Quand un relais reçoit une contrepartie, les règles de transparence de l’influence commerciale peuvent s’appliquer.",
+        "signal": "loughborough"
+      },
       "kpiLinks": {
         "consideration": ["loughborough", "sainsburys", "ecgt"],
         "sov": ["loughborough", "instagram-features", "arpp"],

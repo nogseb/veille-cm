@@ -13,7 +13,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Valider les données et régénérer la page
-        run: python3 scripts/render.py
-      - name: Vérifier que dist/ est à jour
-        run: git diff --exit-code -- dist/
+      - name: Valider les données et régénérer le site
+        run: python3 scripts/build.py
+      - name: Vérifier que dist/ correspond aux données
+        run: git diff --exit-code -- dist/ assets/favicon.svg
+      - name: Vérifier les pages attendues
+        run: |
+          for f in index.html axes/index.html methode/index.html sources/index.html archives/index.html 404.html sitemap.xml .htaccess assets/styles.css assets/app.js assets/social.png; do
+            test -s "dist/$f" || { echo "Manquant : dist/$f"; exit 1; }
+          done
