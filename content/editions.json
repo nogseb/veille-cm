@@ -1,0 +1,293 @@
+{
+  "site": {
+    "name": "Veille Marque & Communication",
+    "organization": "TBS Education",
+    "team": "Pôle Communication & Marque · Direction Marketing, Communication & Développement",
+    "url": "https://nogues.app/veille-cm/",
+    "baseline": "Écouter largement. Retenir peu. Anticiper plutôt que subir.",
+    "description": "Une veille hebdomadaire courte, sourcée et orientée action pour l’équipe Communication & Marque de TBS Education."
+  },
+  "editorialPolicy": {
+    "targetMinSignals": 8,
+    "maxSignals": 12,
+    "maxActions": 3,
+    "requireHorschamp": true,
+    "agendaHorizonDays": 90
+  },
+  "kpis": [
+    {"id": "consideration", "value": "+5 pts", "name": "Considération", "text": "Faire progresser la désirabilité de TBS Education."},
+    {"id": "sov", "value": "+25 %", "name": "Share of voice", "text": "Renforcer la présence de TBS Education dans les conversations qui comptent."},
+    {"id": "anticipation", "value": "80 %", "name": "Anticipation", "text": "Faire basculer la fonction vers un modèle planifié et piloté."}
+  ],
+  "axes": [
+    {"id": "marque", "number": "01", "name": "Marque & corporate", "short": "Marque", "mission": "Mission 01 Marque & corporate, avec 00 Référentiels & assets", "description": "Plateformes et territoires de marque, signatures, identités visuelles, campagnes de notoriété, communication institutionnelle, prises de parole de direction, études et mesure de marque.", "question": "Comment les marques rendent-elles leur différence lisible, désirable et crédible ?"},
+    {"id": "contenus", "number": "02", "name": "Éditorial & contenus", "short": "Contenus", "mission": "Mission 02 Éditorial & contenus", "description": "Stratégies éditoriales, formats et séries, brand content, contenus experts et valorisation de la recherche, production, banques de contenus et outils d’IA de création.", "question": "Quel format ou quel outil change la manière de produire et de raconter ?"},
+    {"id": "influence", "number": "03", "name": "Influence, RP & social media", "short": "Influence & social", "mission": "Mission 03 Influence, RP & social media", "description": "Relations médias, thought leadership, dirigeants et experts, ambassadeurs, créateurs, évolutions des plateformes sociales, communautés en ligne et règles de l’influence.", "question": "Qui occupe les conversations qui comptent, et à quelles conditions ?"},
+    {"id": "programmes", "number": "04", "name": "Programmes & business communication", "short": "Business com", "mission": "Mission 04 Programmes & business communication", "description": "Expression de la marque dans les supports programmes (brochures, vidéos, kits), volet communication des lancements, campagnes entreprises et taxe d’apprentissage.", "question": "Comment la marque reste-t-elle visible au premier regard, avant le programme ?"},
+    {"id": "evenements", "number": "05", "name": "Événements & expérience de marque", "short": "Événements", "mission": "Mission 05 Événements & expérience de marque", "description": "Grands événements, salons, JPO, temps forts, expérience campus et signalétique, activations et partenariats culturels ou sportifs.", "question": "Quelle expérience fait vivre la marque au-delà du stand ?"},
+    {"id": "communautes", "number": "06", "name": "International, communautés & engagement", "short": "Communautés", "mission": "Mission 06 International & communautés", "description": "Déclinaison internationale de la marque, alumni, marque employeur, RSE et communication responsable, Fondation, partenariats stratégiques.", "question": "Comment chaque communauté peut-elle mieux porter la marque, sans surpromesse ?"},
+    {"id": "pilotage", "number": "07", "name": "Pilotage, IA & transformation", "short": "Pilotage & IA", "mission": "Mission 07 Pilotage & transformation", "description": "Organisation de la fonction communication, modèle d’agence intégrée, brand center et DAM, IA et automatisation, KPI de marque, gouvernance et compétences.", "question": "Qu’est-ce qui change la manière de piloter, produire et mesurer ?"},
+    {"id": "horschamp", "number": "08", "name": "Hors champ — inspirations transférables", "short": "Hors champ", "mission": "Toutes missions", "description": "Pratiques de marques hors enseignement supérieur, transposables à la communication, à l’expérience et à l’engagement.", "question": "Quelle mécanique externe pourrait être adaptée, sans copier ses résultats ?"}
+  ],
+  "boundaries": [
+    {"title": "Marque ≠ offre", "text": "Le positionnement, la valeur et le go-to-market d’un programme relèvent du pôle Marketing de l’offre. La veille retient la façon dont la marque s’exprime à travers les programmes : récits, supports, direction artistique."},
+    {"title": "Récit ≠ acquisition", "text": "SEO/GEO, paid media, social ads, site web, CRM et marketing automation relèvent du pôle Growth, Digital & Data. La veille retient la création, le format et la diffusion organique."},
+    {"title": "Rayonnement ≠ performance", "text": "Notoriété, considération et share of voice d’un côté ; mesure de la conversion et tableaux de bord de performance de l’autre, côté Growth, Digital & Data."},
+    {"title": "Veille ≠ e-réputation", "text": "La veille observe l’environnement de la marque. Le suivi des mentions de TBS Education reste une mission outillée du pôle (mission 03). Les sujets d’offre, d’admission et de marché sont couverts par la Veille Concurrents & ESR."}
+  ],
+  "editions": [
+    {
+      "id": "2026-11-02-s45-pilote",
+      "title": "Incarner la marque, outiller les relais, rester transparent",
+      "date": "2026-11-02",
+      "dateLabel": "2 novembre 2026",
+      "period": "26 octobre – 1er novembre 2026",
+      "periodStart": "2026-10-26",
+      "periodEnd": "2026-11-01",
+      "status": "S45 · Édition pilote",
+      "intro": "La semaine place la preuve incarnée au cœur des récits de marque. Loughborough fait de sa réputation sportive la porte d’entrée d’un récit plus large et outille personnels et étudiants pour le relayer ; Sainsbury’s reconduit pour la troisième année une plateforme portée par une collaboratrice. Les plateformes poussent la vidéo longue, pendant qu’en France TikTok alerte ses utilisateurs dans un climat de tension. En toile de fond, les règles de transparence se resserrent : contenus générés par IA, influence commerciale, allégations environnementales. Côté business communication, l’article 42 du PLF 2027 pourrait changer les enjeux de la campagne taxe d’apprentissage.",
+      "stake": "Trois lectures pour le pôle : équiper les relais internes pour faire progresser la share of voice au-delà des comptes officiels ; fixer une règle d’étiquetage des contenus générés par IA avant de passer la Content Factory à l’échelle ; préparer la campagne taxe d’apprentissage 2027 selon l’issue de l’article 42. L’agenda des 90 prochains jours sert l’objectif d’anticipation : quatre salons toulousains, le calendrier Parcoursup 2027 et deux échéances réglementaires.",
+      "featuredSignal": "loughborough",
+      "featuredFact": "Le sport comme porte d’entrée",
+      "featuredTitle": "Loughborough adosse sa campagne de marque à sa réputation sportive pour raconter tout le reste.",
+      "featuredNote": "Lancement externe début novembre ; un kit d’advocacy outille personnels et étudiants. L’université ne publie aucun indicateur de mesure.",
+      "featuredLabel": "Marque & corporate · annonce du 29 octobre 2026",
+      "kpiLinks": {
+        "consideration": ["loughborough", "sainsburys", "ecgt"],
+        "sov": ["loughborough", "instagram-features", "arpp"],
+        "anticipation": ["ai-act", "taxe-apprentissage", "tiktok-alerte"]
+      },
+      "signals": [
+        {
+          "id": "loughborough",
+          "axis": "marque",
+          "actor": "Loughborough University",
+          "caseStudy": true,
+          "label": "Comparer",
+          "priority": "Important",
+          "roadmap": "Considération · Share of voice",
+          "status": "Annonce interne d’une campagne à venir",
+          "timing": "week",
+          "publicationDate": "2026-10-29",
+          "dateLabel": "Publication : 29 octobre 2026 · lancement externe annoncé début novembre 2026",
+          "title": "Loughborough : le sport comme porte d’entrée d’un récit plus large",
+          "fact": "Loughborough University annonce une campagne de marque qui, selon sa directrice Marketing & Advancement, « uses the strength of our sporting reputation as a platform to tell a bigger story » : enseignement, recherche, entrepreneuriat et impact. Elle vise des prescripteurs (universitaires, enseignants, parents, conseillers d’orientation, agents, personnels) et cinq marchés prioritaires : Royaume-Uni, Amérique du Nord, Chine, Inde et Europe. Un Brand Campaign Advocacy Toolkit explique aux personnels et aux étudiants comment relayer la campagne.",
+          "verdict": "La mécanique est double : un atout déjà reconnu sert d’accroche avant d’élargir vers des preuves moins visibles, et la diffusion s’appuie sur des relais outillés, pas seulement sur les comptes officiels. L’efficacité reste à démontrer.",
+          "implication": "Pour la campagne de marque 360, étudier deux transpositions : ouvrir par un atout déjà identifié (par exemple les sportifs de haut niveau de la mini-série « Deux vies. Une trajectoire. ») sans en faire tout le récit ; livrer, le jour du lancement, un kit de relais dans le Brand center pour que collaborateurs, enseignants et ambassadeurs portent la marque.",
+          "limits": "Annonce interne : contenus créatifs, plan média et budget ne sont pas publiés. Contexte britannique, où la réputation sportive de Loughborough est un actif historique ; la transposition porte sur la mécanique, pas sur le positionnement.",
+          "analysis": [
+            {"title": "Ce qui est annoncé", "text": "Une campagne pilotée par la direction Marketing & Advancement, lancée à l’externe début novembre, relayée par les réseaux sociaux de l’université, accompagnée d’un kit d’advocacy et d’un appel aux personnels et étudiants à partager leurs travaux à impact."},
+            {"title": "Ce qui est transposable", "text": "La séquence « atout reconnu, puis récit élargi » répond à l’enjeu de différenciation. Le kit de relais traduit la conviction du pôle selon laquelle la marque est un actif collectif, et sert l’objectif de share of voice."},
+            {"title": "Ce qui reste à prouver", "text": "L’effet sur la perception et la reprise effective par les relais. Une campagne portée par un seul atout peut aussi réduire la marque à cet atout."},
+            {"title": "La question pour TBS Education", "text": "Quel atout déjà reconnu peut ouvrir la campagne 360, et quel kit minimal (messages clés, visuels, publications types, règles de mention) faut-il livrer aux relais dès le lancement ?"}
+          ],
+          "sources": [
+            {"name": "Our Next Brand Campaign", "publisher": "Loughborough University", "date": "29 octobre 2026", "url": "https://www.lboro.ac.uk/internal/news/2026/october/next-brand-campaign/", "type": "Annonce primaire (page interne publique)"}
+          ]
+        },
+        {
+          "id": "canva-craft",
+          "axis": "contenus",
+          "actor": "Canva",
+          "label": "Tester",
+          "priority": "À surveiller",
+          "roadmap": "Enjeu · Industrialiser & mesurer",
+          "status": "Lancement produit",
+          "timing": "context",
+          "publicationDate": "2026-10-23",
+          "dateLabel": "Annonce : 23 octobre 2026, trois jours avant la fenêtre",
+          "title": "Canva Craft : des visuels générés, mais éditables comme une maquette",
+          "fact": "Canva lance Craft, un modèle de génération d’images présenté comme entraîné sur des créations graphiques et des modèles conçus par des humains : affiches, publications sociales, présentations, infographies. Accessible à tous les utilisateurs depuis Dream Lab, il produit des visuels jusqu’à 2K que Canva Magic permet ensuite de modifier : textes, couleurs, positions, dimensions. Une API et un usage depuis ChatGPT ou Gemini via MCP sont annoncés.",
+          "verdict": "L’intérêt pour une équipe de marque tient à l’éditabilité : un visuel généré redevient une maquette modifiable, donc contrôlable par la charte.",
+          "implication": "Pour la Content Factory, tester Craft sur des déclinaisons à faible risque (formats sociaux, visuels d’événements) au regard de la nouvelle direction artistique premium ; définir qui peut générer, à partir de quels modèles de marque, et qui valide, pour que la vitesse ne fragmente pas l’identité.",
+          "limits": "Capacités annoncées par Canva, sans comparatif indépendant. Conditions de licence, d’usage commercial et formules concernées à vérifier.",
+          "sources": [
+            {"name": "Canva Craft : son IA de génération d’images arrive dans Dream Lab", "publisher": "Blog Nouvelles Technologies", "date": "23 octobre 2026", "url": "https://www.blog-nouvelles-technologies.fr/389634/canva-craft-modele-ia-generation-images/", "type": "Presse spécialisée"},
+            {"name": "Canva Releases AI Image Generator That Wasn’t Trained on Photographs", "publisher": "PetaPixel", "date": "23 octobre 2026", "url": "https://petapixel.com/2026/10/23/canva-releases-ai-image-generator-that-wasnt-trained-on-photographs/", "type": "Presse spécialisée — corroboration"}
+          ]
+        },
+        {
+          "id": "instagram-features",
+          "axis": "influence",
+          "actor": "Instagram (Meta)",
+          "label": "Surveiller",
+          "priority": "À surveiller",
+          "roadmap": "Share of voice",
+          "status": "Test de format, hors France",
+          "timing": "week",
+          "publicationDate": "2026-10-26",
+          "dateLabel": "Annonce relayée : 26 octobre 2026 · test au Brésil, extension annoncée aux États-Unis",
+          "title": "Instagram teste des vidéos horizontales de 90 minutes, découpables en Reels",
+          "fact": "Instagram teste « Features », des vidéos horizontales jusqu’à 90 minutes publiées sur le profil, d’abord au Brésil, avec une extension annoncée à des dizaines de milliers de créateurs américains dans les mois à venir. Des extraits courts peuvent être publiés en Reels qui renvoient vers la vidéo longue, et une version TV de l’application est en préparation. Adam Mosseri reconnaît avoir longtemps été opposé à la vidéo longue sur Instagram ; le modèle de monétisation n’est pas arrêté.",
+          "verdict": "Instagram rapproche format long, extraits courts et écran TV. Pour une marque, l’intérêt est la circulation entre l’extrait et la version longue, pas la durée en soi.",
+          "implication": "Pour la mini-série « Deux vies. Une trajectoire. » et les prochains formats de marque, penser chaque épisode en version longue et en extraits dès le tournage, afin d’être prêt si le format ouvre en France. Aucune réorganisation de la ligne sociale n’est justifiée à ce stade.",
+          "limits": "Test limité au Brésil puis aux États-Unis, sans date pour la France. Sources : presse spécialisée ; aucun communiqué officiel d’Instagram consulté.",
+          "sources": [
+            {"name": "Instagram “Features” longer uploads, clips as Reels", "publisher": "Tubefilter", "date": "26 octobre 2026", "url": "https://www.tubefilter.com/2026/10/26/instagram-features-longer-uploads-clips-as-reels/", "type": "Presse spécialisée"},
+            {"name": "Instagram Features tests 90-minute long-form videos", "publisher": "Android Headlines", "date": "26 octobre 2026", "url": "https://www.androidheadlines.com/2026/10/instagram-features-tests-90-minute-long-form-videos.html", "type": "Presse spécialisée — corroboration"}
+          ]
+        },
+        {
+          "id": "tiktok-alerte",
+          "axis": "influence",
+          "actor": "TikTok",
+          "label": "Vérifier",
+          "priority": "Important",
+          "roadmap": "Anticipation · Enjeu Structurer",
+          "status": "Mesure de plateforme en cours",
+          "timing": "week",
+          "publicationDate": "2026-10-28",
+          "dateLabel": "Avertissement constaté le 28 octobre 2026",
+          "title": "TikTok affiche un avertissement aux utilisateurs français avant publication",
+          "fact": "Depuis le 28 octobre, TikTok affiche aux utilisateurs français, au moment de publier, un message indiquant que « la situation évolue rapidement » et rappelant ses règles contre les menaces et l’incitation à la violence. Selon Clubic, la plateforme a aussi supprimé des vidéos, suspendu des lives et limité des recherches liées aux manifestations, dans un contexte de demandes gouvernementales adressées aux réseaux sociaux après les violences du 17 octobre.",
+          "verdict": "Pour une marque, le risque n’est pas la modération elle-même mais le décalage : une publication programmée peut paraître déplacée, et l’accès à une plateforme peut être perturbé.",
+          "implication": "Vérifier qu’une procédure permet de suspendre en quelques minutes les publications programmées et de revoir le ton du calendrier social en période de tension ; prévoir avec le pôle Growth, Digital & Data un relais sur les canaux propriétaires si une plateforme devenait indisponible.",
+          "limits": "Les mesures de modération sont rapportées par la presse, pas annoncées par TikTok. Un blocage de plateformes reste envisagé, non décidé ; le Conseil d’État a jugé illégal un blocage total en Nouvelle-Calédonie.",
+          "sources": [
+            {"name": "« Fais attention à ce que tu publies » : TikTok met en garde ses utilisateurs français", "publisher": "Clubic", "date": "28 octobre 2026", "url": "https://www.clubic.com/actualite-636469-fais-attention-a-ce-que-tu-publies-tiktok-met-en-garde-ses-utilisateurs-francais-sur-fond-d-offensive-contre-les-reseaux-sociaux.html", "type": "Presse spécialisée — constat direct"}
+          ]
+        },
+        {
+          "id": "arpp",
+          "axis": "influence",
+          "actor": "ARPP",
+          "label": "Vérifier",
+          "priority": "Important",
+          "roadmap": "Share of voice",
+          "status": "Observatoire d’autorégulation",
+          "timing": "context",
+          "publicationDate": "2026-10-01",
+          "dateLabel": "Publication : 1er octobre 2026 · contenus analysés de décembre 2025 à août 2026",
+          "title": "Influence : deux fois moins de manquements chez les créateurs certifiés",
+          "fact": "L’Observatoire de l’Influence Responsable 2026 de l’ARPP porte sur environ 25 000 contenus dans quatre secteurs. Le taux de manquement à la transparence atteint 10 % chez les créateurs certifiés contre 18 % chez les non-certifiés. Les difficultés persistent dans les formats courts, stories et lives, et sur les contreparties non monétaires. Une option Sport du Certificat, lancée avec l’INSEP, réunit 40 athlètes de haut niveau.",
+          "verdict": "La transparence devient un critère de choix des partenaires, et les contreparties en nature restent la zone grise la plus fréquente.",
+          "implication": "Pour les partenariats avec des créateurs et le programme d’ambassadeurs, vérifier avec le juridique quand une contrepartie (invitation, accès, dotation) appelle une mention « collaboration commerciale », et privilégier les créateurs certifiés. L’option Sport concerne directement les profils de sportifs de haut niveau que l’École met en avant.",
+          "limits": "Secteurs observés hors enseignement supérieur (finance, beauté, jeux d’argent, alimentation) ; taux mesurés sur les contenus analysés, non exhaustifs. Le statut des ambassadeurs étudiants au regard du droit de l’influence n’est pas tranché ici.",
+          "sources": [
+            {"name": "Observatoire de l’Influence Responsable de l’ARPP 2026", "publisher": "ARPP", "date": "1er octobre 2026", "url": "https://www.arpp.org/actualite/observatoire-de-influence-responsable-de-arpp-2026/", "type": "Étude — source primaire"}
+          ]
+        },
+        {
+          "id": "taxe-apprentissage",
+          "axis": "programmes",
+          "actor": "CDEFI, France Universités, CGE, UGEI, Fesic",
+          "label": "Préparer",
+          "priority": "Important",
+          "roadmap": "Anticipation · Attractivité et développement",
+          "status": "Mesure budgétaire en discussion",
+          "timing": "context",
+          "publicationDate": "2026-10-13",
+          "dateLabel": "Communiqué commun : 12 octobre 2026 · relais France Universités : 13 octobre 2026 · habilitations SOLTéA ouvertes du 26 octobre au 11 décembre 2026",
+          "title": "Taxe d’apprentissage : l’article 42 du PLF 2027 rebat les cartes du solde",
+          "fact": "L’article 42 du projet de loi de finances 2027 prévoit que la part du solde de la taxe d’apprentissage non attribuée par les entreprises sur SOLTéA ne soit plus redistribuée aux établissements, mais affectée à France compétences dans la limite de 129 M€, puis à l’État. Cinq organisations de l’enseignement supérieur, dont la CGE, en demandent la suppression lors de l’examen parlementaire.",
+          "verdict": "Si la mesure est adoptée, seule la part explicitement désignée par les entreprises reviendrait aux écoles : la campagne de sollicitation devient décisive.",
+          "implication": "Préparer une campagne taxe d’apprentissage 2027 centrée sur un geste simple : désigner TBS Education sur SOLTéA. Cibles à confirmer avec les relations entreprises : partenaires, alumni dirigeants, entreprises d’accueil des alternants et des stagiaires.",
+          "limits": "Mesure en discussion, issue inconnue au 1er novembre. L’effet financier pour TBS Education n’est pas estimé ici. La répartition actuelle (60 % métiers en tension, 40 % critère géographique) ne concerne que les sommes non attribuées.",
+          "sources": [
+            {"name": "Taxe d’apprentissage : France Universités et les représentants de l’enseignement supérieur s’opposent à son détournement dans le PLF 2027", "publisher": "France Universités", "date": "13 octobre 2026", "url": "https://franceuniversites.fr/actualite/taxe-dapprentissage-france-universites-et-les-representants-de-lenseignement-superieur-sopposent-a-son-detournement-dans-le-plf-2027/", "type": "Communiqué — source primaire"},
+            {"name": "Taxe d’apprentissage : CDEFI, France Universités, CGE, UGEI et Fesic unies contre l’article 42 du PLF 2027", "publisher": "Thotis", "date": "14 octobre 2026", "url": "https://thotismedia.com/taxe-dapprentissage-suppression-article-42-plf-2027", "type": "Presse ESR — corroboration"},
+            {"name": "Solde de la taxe d’apprentissage : campagne 2027", "publisher": "Via Compétences", "date": "29 septembre 2026", "url": "https://www.via-competences.fr/actualites/solde-de-la-taxe-dapprentissage-campagne-2027", "type": "Calendrier d’habilitation SOLTéA"}
+          ]
+        },
+        {
+          "id": "ecgt",
+          "axis": "communautes",
+          "actor": "Union européenne · droit de la consommation",
+          "label": "Vérifier",
+          "priority": "Important",
+          "roadmap": "Considération (crédibilité)",
+          "status": "Directive applicable, transposition française en attente",
+          "timing": "context",
+          "publicationDate": "2026-09-28",
+          "dateLabel": "Échéance d’application : 27 septembre 2026 · analyse publiée le 28 septembre 2026",
+          "title": "Allégations environnementales : la directive s’applique, la France n’a pas transposé",
+          "fact": "La directive (UE) 2024/825 devait s’appliquer au 27 septembre 2026. Elle interdit notamment les allégations environnementales génériques non prouvées, les labels non fondés sur un système de certification et la neutralité carbone fondée sur la compensation. Le projet de loi de transposition, adopté par le Sénat en février 2026, n’a pas avancé à l’Assemblée ; le Code de la consommation sanctionne déjà les pratiques commerciales trompeuses.",
+          "verdict": "Le retard de transposition ne protège pas des pratiques trompeuses : le niveau de preuve attendu d’une communication responsable est déjà connu.",
+          "implication": "Pour la communication RSE et institutionnelle, inventorier les allégations environnementales (campus, événements, engagements, labels) et constituer un dossier de preuves daté ; remplacer les formulations génériques par des faits vérifiables, avec le pilotage RSE et le juridique.",
+          "limits": "Analyse d’un avocat, pas un avis juridique pour TBS Education. L’application du texte aux pratiques commerciales d’un établissement d’enseignement supérieur est à confirmer avec le juridique.",
+          "sources": [
+            {"name": "Allégations environnementales : depuis le 27 septembre 2026, la directive s’applique, la France n’a pas transposé", "publisher": "Village de la Justice", "date": "28 septembre 2026", "url": "https://www.village-justice.com/articles/allegations-environnementales-septembre-2026-directive-applique-france-pas,59252.html", "type": "Analyse juridique"}
+          ]
+        },
+        {
+          "id": "ai-act",
+          "axis": "pilotage",
+          "actor": "Commission européenne · AI Act",
+          "label": "Vérifier",
+          "priority": "Critique",
+          "roadmap": "Anticipation · Enjeu Industrialiser & mesurer",
+          "status": "Obligation applicable",
+          "timing": "context",
+          "publicationDate": "2026-07-20",
+          "dateLabel": "Lignes directrices finales : 20 juillet 2026 · obligations applicables depuis le 2 août 2026 · fin du délai de grâce pour le marquage par les systèmes existants : 2 décembre 2026",
+          "title": "Contenus générés par IA : l’obligation de transparence concerne les équipes de communication",
+          "fact": "Depuis le 2 août 2026, l’article 50 de l’AI Act impose aux déployeurs d’informer le public lorsqu’ils diffusent un deepfake (image, son ou vidéo réaliste) ou un texte d’intérêt public généré par IA sans réelle responsabilité éditoriale ; les lignes directrices finales précisent qu’une relecture de pure forme ne suffit pas. Côté presse, 81 % des 257 journalistes interrogés par Data Observer pour le Synap souhaitent que le degré d’usage de l’IA soit indiqué dans les documents reçus.",
+          "verdict": "Pour un service communication, l’enjeu n’est pas d’étiqueter tout ce qui touche à l’IA, mais de savoir distinguer ce qui doit l’être.",
+          "implication": "Avant d’industrialiser la Content Factory, rédiger une règle d’une page : quels visuels ou vidéos réalistes générés ou modifiés doivent être signalés, qui valide les textes d’intérêt public, comment mentionner l’usage de l’IA dans les envois presse, et comment le tracer dans la photothèque.",
+          "limits": "Synthèse de la page de la Commission et d’une analyse de cabinet, pas un avis juridique. Le régime allégé pour les contenus créatifs ou publicitaires est étroit et s’apprécie au cas par cas. L’étude Synap date d’avril 2026.",
+          "sources": [
+            {"name": "Guidelines on transparency obligations for providers and deployers of certain AI systems", "publisher": "Commission européenne", "date": "Page mise à jour le 6 août 2026", "url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-transparency-obligations", "type": "Source officielle"},
+            {"name": "EU AI Act — Commission confirms Transparency Code of Practice as adequate and publishes final Guidelines", "publisher": "Faegre Drinker", "date": "30 juillet 2026", "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/eu-ai-act-commission-confirms-transparency-code-of-practice-as-adequate-and-publishes-final-version-of-its-guidelines-on-transparency-obligations", "type": "Analyse juridique"},
+            {"name": "Relations presse à l’ère de l’IA : moins de bruit, plus d’utilité, de l’humain et de la transparence", "publisher": "Influencia", "date": "16 avril 2026", "url": "https://www.influencia.net/relations-presse-a-lere-de-lia-moins-de-bruit-plus-dutilite-de-lhumain-et-de-la-transparence/", "type": "Étude Synap / Data Observer relayée"}
+          ]
+        },
+        {
+          "id": "sainsburys",
+          "axis": "horschamp",
+          "actor": "Sainsbury’s (grande distribution, Royaume-Uni)",
+          "label": "S’inspirer",
+          "priority": "À surveiller",
+          "roadmap": "Considération · Conviction « capitaliser »",
+          "status": "Campagne lancée",
+          "timing": "week",
+          "publicationDate": "2026-11-01",
+          "dateLabel": "Lancement et première diffusion TV : 1er novembre 2026",
+          "title": "Sainsbury’s : une plateforme de marque qui dure, portée par une collaboratrice",
+          "fact": "Pour la troisième année consécutive, Sainsbury’s construit sa campagne de Noël autour du BFG de Roald Dahl. Le film de 120 secondes met en scène Annie, présentée comme collaboratrice de l’enseigne, qui livre le repas de fête du géant avec son collègue Fred. Il est décliné en 90, 60, 40 et 20 secondes pour la télévision, les réseaux sociaux et le web, avec une version dédiée à l’action caritative de l’enseigne.",
+          "verdict": "La valeur tient à la continuité : un univers reconduit d’une année sur l’autre, un tournage pensé pour plusieurs formats et une version engagement prévue dès le départ.",
+          "implication": "Pour la campagne de marque 360, la concevoir comme une plateforme pluriannuelle plutôt qu’un film unique, prévoir les formats courts et une version engagement (Fondation, égalité des chances) dès le brief, et faire apparaître des membres réels de la communauté de TBS Education.",
+          "limits": "Grande distribution britannique, budgets sans commune mesure avec ceux d’une école. Aucun résultat d’audience ou d’effet sur la marque n’est publié. La transposition porte sur la mécanique de plateforme, pas sur le ton.",
+          "sources": [
+            {"name": "Sainsbury’s and Roald Dahl’s BFG reunite to help bring Christmas to everyone", "publisher": "Creative Salon", "date": "1er novembre 2026", "url": "https://creative.salon/articles/work/new-commercial-arts-sainsbury-s-bfg-christmas-2026", "type": "Presse créative — fiche campagne"},
+            {"name": "Christmas ads of 2026: our rolling round-up of the best", "publisher": "Creative Boom", "date": "1er novembre 2026", "url": "https://www.creativeboom.com/news/christmas-adverts-of-2026/", "type": "Presse créative — corroboration"}
+          ]
+        }
+      ],
+      "perspectives": [
+        {"id": "panorama", "name": "Le panorama", "question": "Que retenir de la semaine ?", "text": "", "signals": ["loughborough", "sainsburys", "instagram-features", "tiktok-alerte", "taxe-apprentissage"]},
+        {"id": "fil-rouge", "name": "Le fil rouge", "question": "Qu’est-ce qui relie les sujets ?", "text": "Un même mouvement traverse l’édition : la marque se démontre par des personnes réelles, et ces personnes doivent être équipées et encadrées. Loughborough outille ses relais, Sainsbury’s fait d’une collaboratrice l’héroïne de sa plateforme, l’ARPP montre que la transparence protège la confiance, et l’AI Act fixe ce qui doit être signalé. Incarner la marque suppose des règles claires sur ce qui est commercial, généré ou prouvé.", "signals": ["loughborough", "sainsburys", "arpp", "ai-act", "ecgt"]},
+        {"id": "tensions", "name": "Les tensions", "question": "Quelles dynamiques lire ensemble ?", "text": "Deux tensions sont à lire ensemble. Vitesse contre maîtrise : Canva Craft et les formats longs d’Instagram poussent à produire davantage, alors que les obligations de transparence et la nouvelle direction artistique demandent de valider plus finement. Dépendance contre résilience : la ligne sociale repose sur des plateformes dont l’accès, la modération et les règles d’âge évoluent vite en France.", "signals": ["canva-craft", "instagram-features", "tiktok-alerte", "ai-act"]},
+        {"id": "concurrence", "name": "La lecture concurrentielle", "question": "Où se jouera la différenciation ?", "text": "La bataille de la share of voice se déplace des comptes officiels vers les réseaux de relais : collaborateurs, enseignants, étudiants, alumni et créateurs. Les établissements qui livrent à ces relais des kits, des règles de mention et des assets prêts à l’emploi gagnent en portée sans dépendre seulement des algorithmes. Cette lecture ne mesure pas la share of voice des concurrents ; elle indique où la différence peut se construire.", "signals": ["loughborough", "arpp", "instagram-features", "sainsburys"]}
+      ],
+      "agenda": [
+        {"date": "2026-11-07", "dateLabel": "7 novembre", "title": "Salon Studyrama, Toulouse (MEETT)", "why": "Premier salon toulousain de la saison : occasion de tester le nouveau kit salon et la direction artistique premium.", "axis": "evenements", "status": "Indicatif", "note": "Date relayée par un exposant, à confirmer auprès de l’organisateur.", "source": {"publisher": "Toulouse School of Economics", "url": "https://www.tse-fr.eu/fr/salon-infosup"}},
+        {"date": "2026-11-10", "dateLabel": "10 – 12 novembre", "title": "Adobe MAX, Miami Beach (keynotes diffusées en ligne)", "why": "Annonces attendues sur l’IA appliquée à l’image et à la vidéo, à suivre pour la Content Factory.", "axis": "contenus", "status": "Confirmé", "source": {"publisher": "RedShark News", "url": "https://www.redsharknews.com/adobe-max-2026-preview-miami-beach"}},
+        {"date": "2026-12-02", "dateLabel": "2 décembre", "title": "AI Act : fin du délai de grâce pour le marquage des contenus par les outils déjà sur le marché", "why": "Les outils de génération utilisés par l’équipe devront marquer leurs contenus : vérifier leurs paramètres et la règle interne d’étiquetage.", "axis": "pilotage", "status": "Confirmé", "source": {"publisher": "Faegre Drinker", "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/eu-ai-act-commission-confirms-transparency-code-of-practice-as-adequate-and-publishes-final-version-of-its-guidelines-on-transparency-obligations"}},
+        {"date": "2026-12-07", "dateLabel": "Début décembre", "title": "Classement Financial Times des business schools européennes", "why": "Publié début décembre les années précédentes : préparer éléments de langage et visuels selon plusieurs scénarios de résultat.", "axis": "marque", "status": "Indicatif", "note": "Date déduite des éditions précédentes.", "source": {"publisher": "Frankfurt School (édition 2025)", "url": "https://www.frankfurt-school.de/en/home/news/2025/12/financial-times-european-business-school-ranking"}},
+        {"date": "2026-12-11", "dateLabel": "11 décembre", "title": "SOLTéA : clôture des demandes d’habilitation pour le solde 2027 de la taxe d’apprentissage", "why": "Préalable à toute campagne entreprises : vérifier avec les équipes concernées que l’habilitation est engagée.", "axis": "programmes", "status": "Confirmé", "source": {"publisher": "Via Compétences", "url": "https://www.via-competences.fr/actualites/solde-de-la-taxe-dapprentissage-campagne-2027"}},
+        {"date": "2026-12-12", "dateLabel": "12 décembre", "title": "Salon de l’Étudiant Grandes écoles, Toulouse", "why": "Temps fort de visibilité face aux écoles concurrentes, quelques jours avant la mise en ligne de l’offre Parcoursup.", "axis": "evenements", "status": "Confirmé", "source": {"publisher": "L’Etudiant", "url": "https://www.letudiant.fr/etudes/salons/ville-toulouse.html"}},
+        {"date": "2026-12-17", "dateLabel": "17 décembre", "title": "Parcoursup 2027 : mise en ligne de la carte des formations", "why": "Début de la recherche active des lycéens : messages de marque et supports Bachelor à jour.", "axis": "programmes", "status": "Confirmé", "source": {"publisher": "L’Etudiant", "url": "https://www.letudiant.fr/etudes/parcoursup/on-connait-le-calendrier-de-parcoursup-2027.html"}},
+        {"date": "2027-01-01", "dateLabel": "1er janvier", "title": "Réseaux sociaux : interdiction aux moins de 15 ans étendue aux comptes existants", "why": "Vérification d’âge annoncée pour tous les utilisateurs. Les lycéens ciblés ne sont pas concernés par l’interdiction, mais les parcours d’inscription des plateformes peuvent évoluer.", "axis": "influence", "status": "Confirmé", "source": {"publisher": "CIDJ", "url": "https://www.cidj.com/bien-vivre/sa-vie-numerique/les-reseaux-sociaux-interdits-aux-jeunes-de-moins-de-15-ans-des-la-rentree"}},
+        {"date": "2027-01-07", "dateLabel": "7 – 9 janvier", "title": "Salon Infosup, Toulouse (MEETT)", "why": "Grand rendez-vous régional de l’orientation : stand, prises de parole et contenus sociaux à planifier dès décembre.", "axis": "evenements", "status": "Indicatif", "note": "Date publiée par un exposant ; la page comporte une incohérence d’année.", "source": {"publisher": "Toulouse School of Economics", "url": "https://www.tse-fr.eu/fr/salon-infosup"}},
+        {"date": "2027-01-18", "dateLabel": "18 janvier", "title": "Parcoursup 2027 : ouverture des inscriptions et des vœux", "why": "Pic d’attention des lycéens et des parents : temps forts de marque et contenus à caler en amont.", "axis": "programmes", "status": "Confirmé", "source": {"publisher": "L’Etudiant", "url": "https://www.letudiant.fr/etudes/parcoursup/on-connait-le-calendrier-de-parcoursup-2027.html"}},
+        {"date": "2027-01-30", "dateLabel": "30 janvier", "title": "Salon de l’Étudiant formations et recrutement en alternance, Toulouse", "why": "Public différent des salons post-bac : messages alternance et preuves entreprises à mobiliser.", "axis": "evenements", "status": "Confirmé", "source": {"publisher": "L’Etudiant", "url": "https://www.letudiant.fr/etudes/salons/ville-toulouse.html"}}
+      ],
+      "actions": [
+        {"title": "Adosser la campagne de marque 360 à un kit de relais", "owner": "Mission 01 Marque & corporate, avec 00 Référentiels & assets — proposé", "horizon": "Avant le lancement externe de la campagne 360", "result": "Un kit dans le Brand center (messages clés, visuels, trois publications types, règles de mention) testé auprès d’un premier cercle de collaborateurs, enseignants et ambassadeurs.", "signal": "loughborough"},
+        {"title": "Écrire la règle d’étiquetage IA de la Content Factory", "owner": "Mission 07 Pilotage & transformation, avec 02 Éditorial & contenus — proposé", "horizon": "Avant le 2 décembre 2026", "result": "Une règle d’une page : cas à signaler, validation des textes d’intérêt public, mention type pour les envois presse, champ « IA » dans la photothèque.", "signal": "ai-act"},
+        {"title": "Préparer la campagne taxe d’apprentissage 2027", "owner": "Mission 04 Programmes & business communication, avec les relations entreprises — à confirmer", "horizon": "Dès l’issue du vote de l’article 42", "result": "Un argumentaire et un kit entreprises et alumni dirigeants centrés sur la désignation de TBS Education sur SOLTéA.", "signal": "taxe-apprentissage"}
+      ],
+      "coverage": {
+        "marque": "Un signal : Loughborough annonce une campagne fondée sur sa réputation sportive. Les mouvements de marque des écoles françaises de la semaine sont suivis par la Veille Concurrents & ESR.",
+        "contenus": "Un contexte : Canva Craft (23 octobre), retenu pour son effet sur la production de déclinaisons.",
+        "influence": "Trois signaux : Instagram Features, l’avertissement de TikTok en France et l’Observatoire de l’ARPP (contexte du 1er octobre).",
+        "programmes": "Un contexte : l’article 42 du PLF 2027 sur le solde de la taxe d’apprentissage.",
+        "evenements": "Aucun signal retenu. Quatre salons toulousains figurent dans l’agenda des 90 jours.",
+        "communautes": "Un contexte : la directive sur les allégations environnementales, applicable sans transposition française.",
+        "pilotage": "Un contexte : l’article 50 de l’AI Act, applicable depuis le 2 août, avec une échéance le 2 décembre.",
+        "horschamp": "Une inspiration : Sainsbury’s et sa plateforme de Noël reconduite pour la troisième année."
+      },
+      "notice": "Édition pilote de neuf signaux : quatre publications de la fenêtre et cinq contextes antérieurs, explicitement identifiés et retenus parce qu’ils appellent une décision du pôle dans les prochaines semaines. Sept axes sur huit sont couverts ; aucun sujet Événements n’a atteint le niveau de preuve requis. Les sujets d’offre, d’admission et d’acquisition sont exclus : ils relèvent des pôles Marketing de l’offre et Growth, Digital & Data, ou de la Veille Concurrents & ESR."
+    }
+  ]
+}

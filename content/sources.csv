@@ -1,0 +1,27 @@
+famille;niveau;source;axes;role;limite;url
+Officiel et régulation;N1;Commission européenne — transparence de l’IA;pilotage;Textes, lignes directrices et code de bonnes pratiques sur l’étiquetage des contenus générés par IA.;Cadre juridique général : l’application à un cas précis relève du juridique.;https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-transparency-obligations
+Officiel et régulation;N1;ARPP;influence;Recommandations, observatoires et certificat de l’influence responsable.;Autorégulation professionnelle : ne remplace pas la loi.;https://www.arpp.org/
+Officiel et régulation;N1;Arcom;influence;Régulation des plateformes et des contenus en ligne, protection des mineurs.;Publications institutionnelles à rythme irrégulier.;https://www.arcom.fr/
+Officiel et régulation;N1;DGCCRF;communautes;Pratiques commerciales trompeuses, allégations environnementales, influence commerciale.;Contrôles sectoriels, rarement centrés sur l’enseignement supérieur.;https://www.economie.gouv.fr/dgccrf
+Officiel et régulation;N1;SOLTéA;programmes;Calendrier et règles du solde de la taxe d’apprentissage.;Plateforme opérationnelle : les débats budgétaires se suivent ailleurs.;https://www.soltea.education.gouv.fr/espace-public/
+Officiel et régulation;N1;Parcoursup;programmes;Calendrier officiel de la saison post-bac, utile pour caler les temps forts.;Calendrier, pas de données de communication.;https://www.parcoursup.gouv.fr/
+Plateformes;N1;Instagram — Creators;influence;Formats, fonctionnalités et règles pour créateurs et marques.;Annonces produit : disponibilité par pays souvent non précisée.;https://creators.instagram.com/
+Plateformes;N1;LinkedIn Pressroom;influence;Annonces produit et données d’usage de LinkedIn.;Tests souvent limités aux États-Unis au lancement.;https://news.linkedin.com/
+Plateformes;N1;TikTok Newsroom;influence;Annonces produit, règles de sécurité et de modération.;Communication de la plateforme, à recouper.;https://newsroom.tiktok.com/
+Plateformes;N1;YouTube Official Blog;contenus;Formats longs, podcasts vidéo, outils pour créateurs.;Annonces produit, sans données de performance par secteur.;https://blog.youtube/
+Réseaux de l’enseignement supérieur;N1;Conférence des grandes écoles;programmes;Positions des grandes écoles, enquêtes et prises de parole collectives.;Point de vue de la conférence.;https://www.cge.asso.fr/
+Réseaux de l’enseignement supérieur;N1;EFMD Global Blog;marque;Accréditations, labels et pratiques des business schools.;Communication institutionnelle de l’EFMD.;https://blog.efmdglobal.org/
+Réseaux de l’enseignement supérieur;N1;CASE;communautes;Pratiques de marque, alumni et philanthropie dans l’enseignement supérieur.;Corpus majoritairement anglo-saxon.;https://www.case.org/
+Presse communication et marketing;N2;Stratégies;marque;Campagnes, agences, organisation de la fonction communication.;Articles en partie réservés aux abonnés.;https://www.strategies.fr/
+Presse communication et marketing;N2;CB News;marque;Campagnes, création, médias.;Articles en partie réservés aux abonnés.;https://www.cbnews.fr/
+Presse communication et marketing;N2;Influencia;contenus;Tendances de communication, études et relations presse.;Angle éditorial, à recouper avec l’étude d’origine.;https://www.influencia.net/
+Presse communication et marketing;N2;Blog du Modérateur;influence;Nouveautés des réseaux sociaux et des outils.;Relais d’annonces, à recouper avec la source officielle.;https://www.blogdumoderateur.com/
+Presse créative internationale;N2;Creative Review;horschamp;Identités, campagnes et design, analyses de création.;Corpus surtout britannique.;https://www.creativereview.co.uk/
+Presse créative internationale;N2;The Drum;horschamp;Campagnes internationales, organisation des agences et des marques.;Volume élevé : sélectionner.;https://www.thedrum.com/
+Presse créative internationale;N2;Creative Boom;horschamp;Campagnes, identités et inspirations créatives.;Ton enthousiaste, peu de données.;https://www.creativeboom.com/
+Presse créative internationale;N2;Social Media Today;influence;Suivi quotidien des fonctionnalités des plateformes sociales.;Tests et rumeurs mêlés aux lancements : qualifier le statut.;https://www.socialmediatoday.com/
+Presse créative internationale;N2;Tubefilter;contenus;Économie des créateurs et formats vidéo.;Marché surtout nord-américain.;https://www.tubefilter.com/
+Presse enseignement supérieur;N2;L’Etudiant — EducPros;marque;Stratégies des établissements, nominations, campagnes et salons.;Articles en partie réservés aux abonnés.;https://www.letudiant.fr/educpros/
+Presse enseignement supérieur;N2;Thotis;programmes;Actualité des écoles, classements et politiques publiques.;Média spécialisé, à recouper avec la source primaire.;https://thotismedia.com/
+Presse enseignement supérieur;N2;Business Cool;marque;Actualité des écoles de commerce et des classements.;Ton grand public étudiant.;https://business-cool.com/
+Études et recherche;N2;Reuters Institute — Digital News Report;influence;Usages de l’information, créateurs, confiance dans les médias.;Publication annuelle (juin).;https://reutersinstitute.politics.ox.ac.uk/

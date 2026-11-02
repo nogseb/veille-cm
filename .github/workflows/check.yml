@@ -1,0 +1,19 @@
+name: Contrôle éditorial
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Valider les données et régénérer la page
+        run: python3 scripts/render.py
+      - name: Vérifier que dist/ est à jour
+        run: git diff --exit-code -- dist/
