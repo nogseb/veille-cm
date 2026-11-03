@@ -554,7 +554,7 @@ def nav_html(ctx, active):
     for route, label, key in NAV:
         cur = ' aria-current="page"' if key == active else ""
         links += f'<a href="{ctx.href(route)}"{cur}>{t(label)}</a>'
-    return f'<header class="nav"><div class="wrap nav-in"><a class="brand" href="{ctx.href("")}" aria-label="Veille Marque et Communication, édition courante">{mark_svg()}<span class="brand-text"><b>Veille</b><small>Marque &amp; Communication</small></span></a><nav class="nav-links" aria-label="Navigation principale">{links}</nav><button type="button" class="theme-btn" data-theme-toggle aria-label="Changer de thème">{SUN}{MOON}</button></div></header>'
+    return f'<header class="nav"><div class="wrap nav-in"><a class="brand" href="{ctx.href("")}" aria-label="Veille Communication et Marque, édition courante">{mark_svg()}<span class="brand-text"><b>Veille</b><small>Communication &amp; Marque</small></span></a><nav class="nav-links" aria-label="Navigation principale">{links}</nav><button type="button" class="theme-btn" data-theme-toggle aria-label="Changer de thème">{SUN}{MOON}</button></div></header>'
 
 
 def footer_html(ctx):
