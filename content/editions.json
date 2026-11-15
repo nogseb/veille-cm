@@ -831,9 +831,9 @@
           "dateLabel": "Vote : 4 novembre 2026 · examen au Sénat du 20 novembre au 9 décembre 2026",
           "title": "Taxe d’apprentissage : le rejet du budget renvoie l’article 42 au Sénat",
           "fact": "Le 4 novembre, l’Assemblée nationale rejette la partie recettes du projet de loi de finances 2027 par 458 voix contre, ce qui emporte tout le texte en première lecture. Le Sénat reçoit la version initiale du gouvernement, sans les amendements des députés : elle contient l’article 42, qui affecterait à France compétences, puis à l’État, le solde de la taxe d’apprentissage non attribué par les entreprises. Le Sénat examine les recettes du 20 au 28 novembre et vote le 9 décembre.",
-          "verdict": "Les députés ne se sont pas prononcés sur l’article 42. Son sort ne sera pas connu avant la mi-décembre, après la clôture des habilitations SOLTéA du 11 décembre.",
+          "verdict": "Avant de rejeter le texte, les députés avaient voté la suppression du transfert du solde (84 voix contre 73), mais ce vote tombe avec le rejet. Le sort de la mesure ne sera pas connu avant la mi-décembre, après la clôture des habilitations SOLTéA du 11 décembre.",
           "implication": "Construire la campagne taxe d’apprentissage 2027 pour deux scénarios, article maintenu ou supprimé, autour d’un message valable dans les deux cas : désigner TBS Education sur SOLTéA. Caler les envois aux entreprises et aux alumni dirigeants sur le calendrier du Sénat.",
-          "limits": "Issue incertaine : commission mixte paritaire, nouvelle lecture, 49.3 ou ordonnances restent possibles après le 17 décembre. Lecture budgétaire résumée pour la communication, à valider avec la direction financière et le juridique. Effet financier pour TBS Education non estimé.",
+          "limits": "Issue incertaine : commission mixte paritaire, nouvelle lecture, 49.3 ou ordonnances restent possibles après le 17 décembre. Lecture budgétaire résumée pour la communication, à valider avec la direction financière et le juridique. Effet financier pour TBS Education non estimé. Correction du 15 novembre : la première version indiquait à tort que les députés ne s’étaient pas prononcés sur l’article 42.",
           "sources": [
             {
               "name": "Budget 2027 rejeté : quelles sont les prochaines étapes au Parlement ?",
@@ -850,11 +850,11 @@
               "type": "Calendrier parlementaire — corroboration"
             },
             {
-              "name": "Article 42 du PLF : vote reporté, il est encore temps d’AGIR(ES)",
-              "publisher": "AGIRES",
-              "date": "22 octobre 2026",
-              "url": "https://www.agires.com/article-42-du-plf-vote-reporte-il-est-encore-temps-dagires/",
-              "type": "Contexte : article 42 non examiné avant le rejet"
+              "name": "Compte rendu de la première séance du mercredi 4 novembre 2026",
+              "publisher": "Assemblée nationale",
+              "date": "4 novembre 2026",
+              "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-04-novembre-2026",
+              "type": "Source officielle — amendements n° 1578, 2089 et 2334, vote de l’article 42"
             }
           ]
         },
@@ -1448,6 +1448,485 @@
         "horschamp": "Deux inspirations : le fait main revendiqué par Levi’s face à l’IA, et la publicité de Noël de John Lewis, entre prétest flatteur et réception critique."
       },
       "notice": "Édition consolidée de 11 signaux, tous publiés dans la fenêtre du 2 au 8 novembre. Elle fusionne la collecte de Claude et la contribution de ChatGPT (campagnes et cas d’école), notées sur 11 points puis contre-vérifiées source par source ; deux propositions de ChatGPT n’ont pas été retenues faute de source vérifiable. Mise en ligne le mardi 10 novembre. Sept axes sur huit sont couverts (Événements vide). Les sujets d’offre, d’admission et d’acquisition sont exclus : ils relèvent des pôles Marketing de l’offre et Growth, Digital & Data, ou de la Veille Concurrents & ESR."
+    },
+    {
+      "id": "2026-11-16-s47",
+      "title": "Des mentions obligatoires, des chartes automatisées, des critiques à trier",
+      "date": "2026-11-16",
+      "dateLabel": "16 novembre 2026",
+      "period": "9 – 15 novembre 2026",
+      "periodStart": "2026-11-09",
+      "periodEnd": "2026-11-15",
+      "status": "S47 · Édition resserrée",
+      "intro": "Semaine pauvre en lancements de marque dans l’enseignement supérieur, mais riche en règles. La loi de régulation du supérieur privé arrive à l’Assemblée la semaine du 14 décembre, avec des mentions obligatoires sur les supports de présentation des formations. Sur la taxe d’apprentissage, une correction : les députés avaient supprimé le transfert du solde avant de rejeter le budget. Adobe propose des agents qui apprennent les chartes de marque. Et Coca-Cola signe un troisième Noël en IA, mieux noté en prétest que des campagnes faites à la main.",
+      "stake": "Trois lectures pour le pôle : vérifier, avec le Marketing de l’offre, que les supports de présentation des formations portent les informations que la loi prévoit d’imposer ; rendre la charte lisible par les outils avant d’en choisir un ; et juger les contenus produits avec l’IA sur leur effet et leurs repères de marque, avec une grille pour trier les critiques. La campagne taxe d’apprentissage garde ses deux scénarios jusqu’au vote du Sénat du 9 décembre.",
+      "featuredSignal": "coca-cola-ia-system1",
+      "featuredFact": "Le test contredit la critique",
+      "featuredTitle": "Coca-Cola signe un troisième Noël en IA, mieux noté que des campagnes faites à la main.",
+      "featuredNote": "Tribune du 9 novembre dans The Drum, fondée sur les prétests de System1 : 5,7 étoiles pour Coca-Cola, 3,8 pour Levi’s. Un auteur intéressé, des panels britanniques.",
+      "featuredLabel": "Hors champ — inspirations transférables · tribune du 9 novembre 2026",
+      "word": {
+        "term": "Agrément d’intérêt général",
+        "definition": "Reconnaissance que le projet de loi de régulation du supérieur privé réserve aux établissements privés à but non lucratif qui participent aux missions de service public, après une évaluation supplémentaire.",
+        "context": "Le texte adopté au Sénat le distingue de l’agrément simple, désormais nécessaire pour rester sur Parcoursup. L’Assemblée l’examine la semaine du 14 décembre.",
+        "caution": "Version du Sénat : conditions, effets et calendrier peuvent encore changer à l’Assemblée et dans les décrets.",
+        "signal": "loi-superieur-prive-assemblee"
+      },
+      "kpiLinks": {
+        "consideration": [
+          "coca-cola-ia-system1",
+          "loi-superieur-prive-assemblee"
+        ],
+        "sov": [
+          "coca-cola-ia-system1"
+        ],
+        "anticipation": [
+          "loi-superieur-prive-assemblee",
+          "ta-article42-vote-deputes",
+          "adobe-max-agents-marque"
+        ]
+      },
+      "signals": [
+        {
+          "id": "coca-cola-ia-system1",
+          "axis": "horschamp",
+          "actor": "Coca-Cola · System1 (tribune dans The Drum)",
+          "caseStudy": true,
+          "label": "Comparer",
+          "priority": "À surveiller",
+          "roadmap": "Considération · Enjeu · Structurer",
+          "status": "Campagne de Noël générée par IA, troisième année",
+          "timing": "week",
+          "publicationDate": "2026-11-09",
+          "dateLabel": "Tribune : 9 novembre 2026",
+          "title": "Coca-Cola : un troisième Noël en IA, des tests qui contredisent les critiques",
+          "fact": "Le 9 novembre, dans The Drum, Andrew Tindall (System1) analyse le retour, pour la troisième année, des camions « Holidays Are Coming » de Coca-Cola générés par IA. Testée auprès de 300 personnes, la publicité obtient 5,7 étoiles (5,9 en 2024 et 2025) ; 68 % des répondants disent se sentir heureux en la regardant. Dans les tests du même institut, Levi’s obtient 3,8 étoiles et Prada 3,4. Sur près de 3 000 personnes, le public ne perçoit pas l’IA sauf si on l’interroge.",
+          "verdict": "La technique de production pèse moins que l’émotion et les repères de marque. Une critique en ligne bruyante peut rester minoritaire, mais elle compte quand elle s’étend.",
+          "implication": "Pour la campagne de marque 360 et la Content Factory : juger un contenu, produit ou non avec l’IA, sur l’émotion qu’il suscite et sur la présence des repères de marque ; garder l’étiquetage transparent ; et doter le protocole de lancement d’une grille de tri des critiques (combien de personnes, au-dessus de la normale, en hausse ou non).",
+          "limits": "Tribune d’un dirigeant de System1, institut qui produit les mesures citées. Panels britanniques. Un score de prétest ne mesure ni l’effet à long terme ni la réputation de la marque. Le constat ne vaut pas pour tous les secteurs, et un établissement d’enseignement n’est pas jugé comme une marque de boisson.",
+          "analysis": [
+            {
+              "title": "Ce qui est annoncé",
+              "text": "Une troisième publicité de Noël générée par IA, maintenue malgré les critiques des deux années précédentes, et des scores de prétest stables, supérieurs à ceux de campagnes revendiquant le fait main."
+            },
+            {
+              "title": "Ce qui est transposable",
+              "text": "Évaluer un contenu sur ce qu’il fait ressentir et sur ses repères de marque, quelle que soit sa technique ; trier les critiques avec trois questions simples avant de réagir."
+            },
+            {
+              "title": "Ce qui reste à prouver",
+              "text": "L’effet à long terme sur la marque, la réaction du public quand l’usage de l’IA est affiché, et la transposition à un secteur où la confiance et l’authenticité sont au cœur de la promesse."
+            },
+            {
+              "title": "La question pour TBS Education",
+              "text": "Sur quels critères le pôle validera-t-il un contenu produit avec l’IA avant diffusion, et comment distinguera-t-il une critique minoritaire d’un vrai risque de réputation ?"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Coca-Cola wouldn’t make a third AI Christmas ad if online backlash mattered enough",
+              "publisher": "The Drum",
+              "date": "9 novembre 2026",
+              "url": "https://www.thedrum.com/opinion/coca-cola-wouldn-t-make-a-third-ai-christmas-ad-if-online-backlash-mattered-enough",
+              "type": "Tribune — auteur intéressé (System1)"
+            }
+          ]
+        },
+        {
+          "id": "ta-article42-vote-deputes",
+          "axis": "programmes",
+          "actor": "Assemblée nationale · Sénat",
+          "label": "Préparer",
+          "priority": "Critique",
+          "roadmap": "Anticipation · Attractivité et développement",
+          "status": "Correction et suivi : examen au Sénat à partir du 20 novembre",
+          "timing": "context",
+          "publicationDate": "2026-11-04",
+          "dateLabel": "Vote : 4 novembre 2026 · appel à la mobilisation au Sénat : 12 novembre 2026",
+          "title": "Article 42 : les députés avaient supprimé le transfert du solde avant de rejeter le budget",
+          "fact": "Le compte rendu de la séance du 4 novembre montre que les députés ont adopté, par 84 voix contre 73 et contre l’avis du gouvernement, trois amendements identiques supprimant le reversement à France compétences, puis à l’État, du solde non affecté de la taxe d’apprentissage. L’article 42 ainsi modifié a été adopté, avant le rejet de toute la partie recettes. Le Sénat repart de la version initiale, qui contient la mesure. Le 12 novembre, AGIRES appelle à poursuivre la mobilisation au Sénat.",
+          "verdict": "Une majorité de députés présents s’est opposée à la mesure, mais ce vote est tombé avec le rejet du texte et ne s’impose pas au Sénat.",
+          "implication": "La campagne taxe d’apprentissage 2027 garde ses deux scénarios et son message commun : désigner TBS Education sur SOLTéA. Le vote des députés peut nourrir les échanges de la direction avec les entreprises et les réseaux d’écoles, sans prise de position publique de l’école sur le budget.",
+          "limits": "Position de la commission des finances du Sénat non connue à ce stade. Lecture parlementaire résumée pour la communication, à valider avec la direction financière et le juridique. Cet item corrige l’édition S46, qui indiquait à tort que les députés ne s’étaient pas prononcés.",
+          "sources": [
+            {
+              "name": "Compte rendu de la première séance du mercredi 4 novembre 2026",
+              "publisher": "Assemblée nationale",
+              "date": "4 novembre 2026",
+              "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-04-novembre-2026",
+              "type": "Source officielle — amendements n° 1578, 2089 et 2334, vote de l’article 42"
+            },
+            {
+              "name": "PLF 2027 : la semaine à l’Assemblée nationale (2-9 nov.)",
+              "publisher": "Legiwatch",
+              "date": "9 novembre 2026",
+              "url": "https://www.legiwatch.fr/post/decryptage-plf-2027-2026-11-09",
+              "type": "Analyse parlementaire — vote de l’article 42 (45 voix contre 28)"
+            },
+            {
+              "name": "Mobilisation pour la suppression de l’article 42 du PLF 2027",
+              "publisher": "AGIRES",
+              "date": "20 octobre 2026, suivi du 12 novembre",
+              "url": "https://www.agires.com/mobilisation-pour-suppression-de-larticle-42-du-plf-2027/",
+              "type": "Réseau professionnel — appel à la mobilisation"
+            }
+          ]
+        },
+        {
+          "id": "loi-superieur-prive-assemblee",
+          "axis": "programmes",
+          "actor": "Gouvernement · Assemblée nationale",
+          "label": "Préparer",
+          "priority": "Important",
+          "roadmap": "Considération · Anticipation",
+          "status": "Projet de loi adopté au Sénat, inscrit à l’Assemblée",
+          "timing": "week",
+          "publicationDate": "2026-11-12",
+          "dateLabel": "Courrier du Premier ministre : 10 novembre 2026 · rendu public le 11 novembre · examen : semaine du 14 décembre 2026",
+          "title": "Supérieur privé : la loi de régulation arrive à l’Assemblée la semaine du 14 décembre",
+          "fact": "Dans un courrier du 10 novembre aux présidents d’université, rendu public le lendemain, le Premier ministre annonce l’examen à l’Assemblée nationale, la semaine du 14 décembre, du projet de loi de régulation de l’enseignement supérieur privé adopté au Sénat le 1er juin. Le texte crée un agrément, condition pour rester sur Parcoursup, et un agrément d’intérêt général pour les établissements non lucratifs. Il impose d’indiquer sur les supports de présentation la nature du diplôme, sa reconnaissance, les poursuites d’études, l’insertion et l’ensemble des frais.",
+          "verdict": "La présentation des formations devient un objet réglementé : des mentions précises s’imposeront à tous les supports, et l’agrément pourra fonctionner comme un signal de qualité.",
+          "implication": "Avec le pôle Marketing de l’offre, qui porte l’offre : vérifier dès maintenant sur un échantillon de supports (brochure, page programme, kit salon) la présence des mentions prévues, et préparer la manière d’en parler sans surpromesse. Anticiper le récit sur l’agrément selon le statut de TBS Education.",
+          "limits": "Texte de la version du Sénat, susceptible d’évoluer à l’Assemblée, en commission mixte paritaire puis dans les décrets ; aucune date d’entrée en vigueur. La campagne Parcoursup qui ouvre le 17 décembre ne sera pas concernée. Lecture à valider avec le juridique.",
+          "sources": [
+            {
+              "name": "Universités : 5 000 places supplémentaires en licence et l’examen du texte sur le supérieur privé fixé à décembre",
+              "publisher": "Thotis",
+              "date": "12 novembre 2026",
+              "url": "https://thotismedia.com/universites-licence-examen-texte-superieur-prive-decembre/",
+              "type": "Presse ESR — calendrier"
+            },
+            {
+              "name": "« Officines commerciales » : les écoles privées devront être agréées par l’État pour rester sur Parcoursup",
+              "publisher": "L’Express Éducation",
+              "date": "12 novembre 2026",
+              "url": "https://lexpress-education.com/actualites/ecoles-privees-agreees-par-etat-pour-rester-sur-parcoursup/",
+              "type": "Presse — contenu du texte et calendrier"
+            },
+            {
+              "name": "Enseignement supérieur privé : de nouvelles conditions pour apparaître sur Parcoursup",
+              "publisher": "Juriguide",
+              "date": "12 novembre 2026",
+              "url": "https://www.juriguide.com/2026/11/12/enseignement-superieur-prive-agrement-parcoursup-projet-loi-2026/",
+              "type": "Presse juridique — obligations d’information"
+            }
+          ]
+        },
+        {
+          "id": "adobe-max-agents-marque",
+          "axis": "pilotage",
+          "actor": "Adobe",
+          "label": "Tester",
+          "priority": "Important",
+          "roadmap": "Enjeu · Industrialiser & mesurer",
+          "status": "Annonces en bêta et en préversion",
+          "timing": "week",
+          "publicationDate": "2026-11-10",
+          "dateLabel": "Adobe MAX : 10 novembre 2026",
+          "title": "Adobe met des agents dans ses outils et propose d’apprendre les chartes de marque",
+          "fact": "Le 10 novembre, à Adobe MAX, Adobe présente Firefly comme un studio d’IA créative intégrant aussi des modèles tiers (Google, OpenAI, ElevenLabs). Un agent créatif, en bêta, arrive dans Firefly, Illustrator, Premiere, InDesign et After Effects ; un agent « toujours actif », en préversion, prend en charge des tâches récurrentes comme le tri des contenus entrants, le contrôle qualité et la préparation multicanal. Pour les entreprises, GenStudio reçoit Brand Intelligence, présenté comme apprenant en continu les règles de marque pour en vérifier l’application.",
+          "verdict": "Le contrôle de conformité à la charte devient une fonction automatisée des outils de production : une charte devient une donnée.",
+          "implication": "Pour le Brand center et la Content Factory : structurer la charte (logos, couleurs, typographies, ton, règles d’usage, exemples) sous une forme exploitable par un outil, avant tout choix de solution, puis tester un agent sur une tâche répétitive, comme la déclinaison de formats, sous validation humaine.",
+          "limits": "Communiqué de l’éditeur. Fonctions en bêta ou en préversion, sans date ni prix ; GenStudio est une offre entreprise. Le communiqué ne mentionne pas les Content Credentials : la question de l’étiquetage des contenus reste entière avant l’échéance de l’AI Act du 2 décembre.",
+          "sources": [
+            {
+              "name": "Adobe ouvre une nouvelle ère de la créativité, en mettant agents et outils à la disposition de tous les créatifs",
+              "publisher": "Adobe",
+              "date": "10 novembre 2026",
+              "url": "https://news.adobe.com/fr/news/2026/11/10/alerte-presse-adobe-max-2026-adobe-ouvre-une-nouvelle-ere-de-la-creativite-en-mettant-agents-et-outils-a-la-disposition-de-tous-les-creatifs",
+              "type": "Annonce primaire"
+            }
+          ]
+        }
+      ],
+      "perspectives": [
+        {
+          "id": "panorama",
+          "name": "Le panorama",
+          "question": "Que retenir de la semaine ?",
+          "text": "",
+          "signals": [
+            "loi-superieur-prive-assemblee",
+            "ta-article42-vote-deputes",
+            "adobe-max-agents-marque",
+            "coca-cola-ia-system1"
+          ]
+        },
+        {
+          "id": "fil-rouge",
+          "name": "Le fil rouge",
+          "question": "Qu’est-ce qui relie les sujets ?",
+          "text": "Ce que la marque affirme devient vérifiable. La loi prévoit des mentions précises sur chaque support de présentation des formations ; Adobe propose de contrôler automatiquement l’application de la charte ; System1 confronte les critiques en ligne à des mesures. La veille applique la même règle à elle-même : l’analyse de l’article 42 publiée en S46 est corrigée à partir du compte rendu officiel.",
+          "signals": [
+            "loi-superieur-prive-assemblee",
+            "adobe-max-agents-marque",
+            "coca-cola-ia-system1",
+            "ta-article42-vote-deputes"
+          ]
+        },
+        {
+          "id": "tensions",
+          "name": "Les tensions",
+          "question": "Quelles dynamiques lire ensemble ?",
+          "text": "Transparence imposée contre promesse : plus les mentions obligatoires s’étendent, moins un support peut s’appuyer sur le flou. Automatisation contre contrôle : un agent qui vérifie la charte suppose une charte structurée et une validation humaine. Bruit contre mesure : la critique en ligne est visible, la réception réelle se mesure, et les deux peuvent diverger.",
+          "signals": [
+            "loi-superieur-prive-assemblee",
+            "adobe-max-agents-marque",
+            "coca-cola-ia-system1"
+          ]
+        },
+        {
+          "id": "concurrence",
+          "name": "La lecture concurrentielle",
+          "question": "Où se jouera la différenciation ?",
+          "text": "Si la loi est adoptée, les écoles privées seront distinguées par leur agrément, et l’agrément d’intérêt général pourra devenir un argument face aux établissements lucratifs. Les supports les plus clairs sur la nature des diplômes et le coût total gagneront en crédibilité. Cette lecture dépend du texte final et ne mesure pas la position des concurrents.",
+          "signals": [
+            "loi-superieur-prive-assemblee"
+          ]
+        }
+      ],
+      "agenda": [
+        {
+          "date": "2026-11-17",
+          "dateLabel": "17 novembre",
+          "title": "Giving Day de Loughborough University",
+          "why": "Voir à l’œuvre une mobilisation coordonnée des personnels, étudiants et alumni : visuels fournis, relais sociaux, code couleur commun.",
+          "axis": "communautes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Loughborough University",
+            "url": "https://lboro.ac.uk/internal/news/2026/october/giving-day-2026/"
+          }
+        },
+        {
+          "date": "2026-11-20",
+          "dateLabel": "20 – 28 novembre",
+          "title": "Sénat : examen de la partie recettes du projet de loi de finances 2027",
+          "why": "L’article 42 sur le solde de la taxe d’apprentissage figure dans le texte transmis : suivre les amendements de suppression.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "NosParlementaires",
+            "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+          }
+        },
+        {
+          "date": "2026-12-01",
+          "dateLabel": "1er – 3 décembre",
+          "title": "38e Forum Cap’Com, Biarritz",
+          "why": "Rendez-vous de la communication publique ; palmarès du Grand Prix le 2 décembre, où Le Mans Université est le seul établissement d’enseignement supérieur nommé.",
+          "axis": "marque",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Cap’Com",
+            "url": "https://www.cap-com.org/le-38e-forum-de-la-communication-publique-et-territoriale"
+          }
+        },
+        {
+          "date": "2026-12-01",
+          "dateLabel": "1er décembre",
+          "title": "Giving Tuesday",
+          "why": "Journée mondiale du don, très utilisée par les universités pour mobiliser alumni et donateurs : repère pour tester un appel commun aux différentes formes d’engagement.",
+          "axis": "communautes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "CSU San Bernardino",
+            "url": "https://www.csusb.edu/inside/article/599825/csusbs-2026-giving-tuesday-campaign-invites-coyotes-solve-new-mystery"
+          }
+        },
+        {
+          "date": "2026-12-02",
+          "dateLabel": "2 décembre",
+          "title": "AI Act : fin du délai de grâce pour le marquage des contenus par les outils déjà sur le marché",
+          "why": "Les outils de génération utilisés par l’équipe devront marquer leurs contenus : vérifier leurs paramètres et la règle interne d’étiquetage.",
+          "axis": "pilotage",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Faegre Drinker",
+            "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/eu-ai-act-commission-confirms-transparency-code-of-practice-as-adequate-and-publishes-final-version-of-its-guidelines-on-transparency-obligations"
+          }
+        },
+        {
+          "date": "2026-12-07",
+          "dateLabel": "Début décembre",
+          "title": "Classement Financial Times des business schools européennes",
+          "why": "Publié début décembre les années précédentes : préparer éléments de langage et visuels selon plusieurs scénarios de résultat.",
+          "axis": "marque",
+          "status": "Indicatif",
+          "note": "Date déduite des éditions précédentes.",
+          "source": {
+            "publisher": "Frankfurt School (édition 2025)",
+            "url": "https://www.frankfurt-school.de/en/home/news/2025/12/financial-times-european-business-school-ranking"
+          }
+        },
+        {
+          "date": "2026-12-09",
+          "dateLabel": "9 décembre",
+          "title": "Sénat : vote sur l’ensemble du projet de loi de finances 2027",
+          "why": "Premier signal sur le sort de l’article 42, deux jours avant la clôture des habilitations SOLTéA.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "NosParlementaires",
+            "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+          }
+        },
+        {
+          "date": "2026-12-11",
+          "dateLabel": "11 décembre",
+          "title": "SOLTéA : clôture des demandes d’habilitation pour le solde 2027 de la taxe d’apprentissage",
+          "why": "Préalable à toute campagne entreprises, deux jours après le vote du Sénat : vérifier avec les équipes concernées que l’habilitation est engagée.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Via Compétences",
+            "url": "https://www.via-competences.fr/actualites/solde-de-la-taxe-dapprentissage-campagne-2027"
+          }
+        },
+        {
+          "date": "2026-12-12",
+          "dateLabel": "12 décembre",
+          "title": "Salon de l’Étudiant Grandes écoles, Toulouse",
+          "why": "Temps fort de visibilité face aux écoles concurrentes, quelques jours avant la mise en ligne de l’offre Parcoursup.",
+          "axis": "evenements",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "L’Etudiant",
+            "url": "https://www.letudiant.fr/etudes/salons/ville-toulouse.html"
+          }
+        },
+        {
+          "date": "2026-12-14",
+          "dateLabel": "Semaine du 14 décembre",
+          "title": "Assemblée nationale : examen du projet de loi de régulation de l’enseignement supérieur privé",
+          "why": "Mentions obligatoires sur les supports de présentation des formations et agréments : suivre les modifications des députés.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Thotis",
+            "url": "https://thotismedia.com/universites-licence-examen-texte-superieur-prive-decembre/"
+          }
+        },
+        {
+          "date": "2026-12-17",
+          "dateLabel": "17 décembre",
+          "title": "Parcoursup 2027 : mise en ligne de la carte des formations",
+          "why": "Début de la recherche active des lycéens : messages de marque et supports Bachelor à jour.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "L’Etudiant",
+            "url": "https://www.letudiant.fr/etudes/parcoursup/on-connait-le-calendrier-de-parcoursup-2027.html"
+          }
+        },
+        {
+          "date": "2026-12-17",
+          "dateLabel": "17 décembre",
+          "title": "Budget 2027 : fin du délai constitutionnel de 70 jours",
+          "why": "Au-delà, le gouvernement peut recourir aux ordonnances : date limite raisonnable pour arrêter le scénario de la campagne taxe d’apprentissage.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "LCP",
+            "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753"
+          }
+        },
+        {
+          "date": "2027-01-01",
+          "dateLabel": "1er janvier",
+          "title": "Réseaux sociaux : interdiction aux moins de 15 ans étendue aux comptes existants",
+          "why": "Vérification d’âge annoncée pour tous les utilisateurs. Les lycéens ciblés ne sont pas concernés par l’interdiction, mais les parcours d’inscription des plateformes peuvent évoluer.",
+          "axis": "influence",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "CIDJ",
+            "url": "https://www.cidj.com/bien-vivre/sa-vie-numerique/les-reseaux-sociaux-interdits-aux-jeunes-de-moins-de-15-ans-des-la-rentree"
+          }
+        },
+        {
+          "date": "2027-01-07",
+          "dateLabel": "7 – 9 janvier",
+          "title": "Salon Infosup, Toulouse (MEETT)",
+          "why": "Grand rendez-vous régional de l’orientation : stand, prises de parole et contenus sociaux à planifier dès décembre.",
+          "axis": "evenements",
+          "status": "Indicatif",
+          "note": "Dates du 7 au 9 janvier 2027 confirmées par un exposant et par la contribution ChatGPT ; page de l’organisateur non consultée.",
+          "source": {
+            "publisher": "Toulouse School of Economics",
+            "url": "https://www.tse-fr.eu/fr/actualites/rdv-salon-infosup-du-7-9-janvier-2027"
+          }
+        },
+        {
+          "date": "2027-01-15",
+          "dateLabel": "15 janvier",
+          "title": "CASE : clôture de l’enquête internationale sur l’engagement des alumni (exercice 2026)",
+          "why": "Mesure l’engagement selon quatre modes (don, bénévolat, expérience, communication) : référence possible pour définir l’engagement des alumni de TBS Education.",
+          "axis": "communautes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "CASE",
+            "url": "https://www.case.org/case-global-alumni-engagement-metrics-survey"
+          }
+        },
+        {
+          "date": "2027-01-18",
+          "dateLabel": "18 janvier",
+          "title": "Parcoursup 2027 : ouverture des inscriptions et des vœux",
+          "why": "Pic d’attention des lycéens et des parents : temps forts de marque et contenus à caler en amont.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "L’Etudiant",
+            "url": "https://www.letudiant.fr/etudes/parcoursup/on-connait-le-calendrier-de-parcoursup-2027.html"
+          }
+        },
+        {
+          "date": "2027-01-30",
+          "dateLabel": "30 janvier",
+          "title": "Salon de l’Étudiant formations et recrutement en alternance, Toulouse",
+          "why": "Public différent des salons post-bac : messages alternance et preuves entreprises à mobiliser.",
+          "axis": "evenements",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "L’Etudiant",
+            "url": "https://www.letudiant.fr/etudes/salons/ville-toulouse.html"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "title": "Vérifier les mentions des supports de présentation des formations",
+          "owner": "Mission 04 Programmes & business communication, avec le pôle Marketing de l’offre et le juridique — à confirmer",
+          "horizon": "Avant l’examen à l’Assemblée, semaine du 14 décembre 2026",
+          "result": "Une grille de contrôle (nature du diplôme, reconnaissance par l’État, poursuites d’études, insertion, frais complets, accès sans coordonnées) appliquée à un échantillon : une brochure, une page programme, un kit salon.",
+          "signal": "loi-superieur-prive-assemblee"
+        },
+        {
+          "title": "Rendre la charte de marque lisible par les outils",
+          "owner": "Mission 07 Pilotage & transformation, avec le Brand center — proposé",
+          "horizon": "Premier trimestre 2027",
+          "result": "Une version structurée de la charte (logos, couleurs, typographies, ton, règles d’usage, exemples et contre-exemples), utilisable par un outil d’IA, et un test sur une tâche de déclinaison de formats.",
+          "signal": "adobe-max-agents-marque"
+        },
+        {
+          "title": "Ajouter une grille de tri des critiques au protocole de lancement",
+          "owner": "Mission 03 Influence, RP & social media — proposé",
+          "horizon": "Avant le lancement de la campagne 360",
+          "result": "Trois questions à poser avant de réagir à une critique en ligne (combien de personnes, au-dessus de la normale, en hausse ou non), et les seuils qui déclenchent une réponse.",
+          "signal": "coca-cola-ia-system1"
+        }
+      ],
+      "coverage": {
+        "marque": "Aucun signal dans la fenêtre : les identités repérées (Trinity University, CSU Channel Islands, Lyon 1 Université) datent de plusieurs mois.",
+        "contenus": "Aucun signal au-dessus du seuil. Les nouveautés de TikTok (vidéos IA de 30 secondes) et de YouTube (extraits de podcasts en Shorts) restent marginales pour le pôle.",
+        "influence": "Aucun signal dans la fenêtre. Le contrat écrit obligatoire avec les créateurs au-delà de 1 000 euros s’applique depuis le 1er janvier 2026.",
+        "programmes": "Deux signaux : la loi de régulation du supérieur privé à l’Assemblée, et la correction sur l’article 42 du budget. Deux échéances rejoignent l’agenda.",
+        "evenements": "Aucun signal dans la fenêtre. Forum Cap’Com, Salon de l’Étudiant et Infosup restent à l’agenda.",
+        "communautes": "Aucun signal dans la fenêtre. Giving Tuesday (1er décembre) et la clôture de l’enquête CASE sur l’engagement des alumni (15 janvier) rejoignent l’agenda, en appui de la suite proposée en S46.",
+        "pilotage": "Un signal : les agents et l’outil de contrôle de charte présentés à Adobe MAX.",
+        "horschamp": "Le cas d’école : la troisième publicité de Noël de Coca-Cola générée par IA et les prétests de System1."
+      },
+      "notice": "Édition resserrée de 4 signaux : la semaine du 9 au 15 novembre a produit peu de faits nouveaux au-dessus du seuil, et la veille n’en ajoute pas pour atteindre un quota. Collecte de Claude, arrêtée le dimanche 15 novembre au matin ; des contributions d’autres IA pourront être consolidées ensuite. Trois axes sur huit sont couverts. Cette édition corrige l’analyse de l’article 42 publiée en S46. Les sujets d’offre, d’admission et d’acquisition relèvent des pôles Marketing de l’offre et Growth, Digital & Data, ou de la Veille Concurrents & ESR."
     }
   ]
 }

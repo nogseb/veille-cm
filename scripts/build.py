@@ -387,7 +387,8 @@ def edition_body(ed, ctx):
         legend += f'<li><button type="button" data-filter="{a(ax["id"])}" aria-pressed="false"{dis}><span class="legend-num">{t(ax["number"])}</span><span class="legend-name">{t(ax["name"])}</span><span class="legend-count">{n}</span></button></li>'
     chips = f'<button type="button" class="filter is-active" data-filter="all" aria-pressed="true">Tous <span>{n_sig}</span></button>'
     chips += "".join(f'<button type="button" class="filter" data-filter="{a(ax["id"])}" aria-pressed="false"{" disabled" if counts[ax["id"]] == 0 else ""}>{t(ax["short"])} <span>{counts[ax["id"]]}</span></button>' for ax in AXES.values())
-    timing_note = f"{week} actualités de la semaine et {ctxs} contextes antérieurs, signalés comme tels."
+    timing_note = (f"{week} actualité{'s' if week > 1 else ''} de la semaine et "
+                   f"{ctxs} contexte{'s' if ctxs > 1 else ''} antérieur{'s' if ctxs > 1 else ''}, signalés comme tels.")
     radar = f'''<section class="sec" data-filter-scope data-nouns="signal|signaux" aria-labelledby="radar-h">
 <div class="sec-head"><div><p class="kicker">Le radar de la semaine</p><h2 class="sec-title" id="radar-h">Huit axes. <em>{t(WORDS.get(n_sig, n_sig))} signaux.</em></h2></div><p class="sec-note">Chaque point est un signal, placé sur l’axe de sa mission et sur l’anneau de sa criticité. Cliquez un axe pour filtrer.</p></div>
 <div class="bento">
