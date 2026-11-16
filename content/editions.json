@@ -1459,7 +1459,7 @@
       "periodEnd": "2026-11-15",
       "status": "S47 · Édition resserrée",
       "intro": "Semaine pauvre en lancements de marque dans l’enseignement supérieur, mais riche en règles. La loi de régulation du supérieur privé arrive à l’Assemblée la semaine du 14 décembre, avec des mentions obligatoires sur les supports de présentation des formations. Sur la taxe d’apprentissage, une correction : les députés avaient supprimé le transfert du solde avant de rejeter le budget. Adobe propose des agents qui apprennent les chartes de marque. Et Coca-Cola signe un troisième Noël en IA, mieux noté en prétest que des campagnes faites à la main.",
-      "stake": "Trois lectures pour le pôle : vérifier, avec le Marketing de l’offre, que les supports de présentation des formations portent les informations que la loi prévoit d’imposer ; rendre la charte lisible par les outils avant d’en choisir un ; et juger les contenus produits avec l’IA sur leur effet et leurs repères de marque, avec une grille pour trier les critiques. La campagne taxe d’apprentissage garde ses deux scénarios jusqu’au vote du Sénat du 9 décembre.",
+      "stake": "Trois lectures pour le pôle : vérifier, avec le Marketing de l’offre, que les supports de présentation des formations portent les informations que la loi prévoit d’imposer ; rendre la charte lisible par les outils avant d’en choisir un ; et juger les contenus produits avec l’IA sur leur effet et leurs repères de marque, avec une grille pour trier les critiques. La campagne taxe d’apprentissage garde ses deux scénarios jusqu’au vote du Sénat du 9 décembre. Cette semaine, l’entrepreneuriat, l’éducation internationale et la réduction des déchets offrent trois terrains d’observation.",
       "featuredSignal": "coca-cola-ia-system1",
       "featuredFact": "Le test contredit la critique",
       "featuredTitle": "Coca-Cola signe un troisième Noël en IA, mieux noté que des campagnes faites à la main.",
@@ -1687,6 +1687,30 @@
       ],
       "agenda": [
         {
+          "date": "2026-11-16",
+          "dateLabel": "16 – 22 novembre",
+          "title": "Global Entrepreneurship Week",
+          "why": "Semaine mondiale de l’entrepreneuriat (200 pays, plus de 50 000 événements en 2025) : observer comment les écoles mettent en récit leurs entrepreneurs étudiants et alumni.",
+          "axis": "communautes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Global Entrepreneurship Network",
+            "url": "https://www.genglobal.org/global-entrepreneurship-week/news/after-its-largest-year-ever-global-entrepreneurship-week-set"
+          }
+        },
+        {
+          "date": "2026-11-16",
+          "dateLabel": "16 – 20 novembre",
+          "title": "International Education Week",
+          "why": "Portée par NAFSA, l’AIEA et trois autres associations, avec un kit social media et les mots-clés #IEW2026 et #ChampionIE : un exemple de kit d’ambassadeurs à observer.",
+          "axis": "communautes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "NAFSA",
+            "url": "https://www.nafsa.org/IEW-2026-joint-release"
+          }
+        },
+        {
           "date": "2026-11-17",
           "dateLabel": "17 novembre",
           "title": "Giving Day de Loughborough University",
@@ -1699,6 +1723,18 @@
           }
         },
         {
+          "date": "2026-11-19",
+          "dateLabel": "19 novembre",
+          "title": "Journée mondiale de la philosophie, UNESCO, Paris",
+          "why": "Thème « Penser et agir ensemble » : repérer les formats d’expertise sur les enjeux de société, dans le prolongement du « Café des Humanités » d’Audencia.",
+          "axis": "contenus",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "UNESCO (programme)",
+            "url": "https://indico.un.org/event/1024266/program"
+          }
+        },
+        {
           "date": "2026-11-20",
           "dateLabel": "20 – 28 novembre",
           "title": "Sénat : examen de la partie recettes du projet de loi de finances 2027",
@@ -1708,6 +1744,18 @@
           "source": {
             "publisher": "NosParlementaires",
             "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+          }
+        },
+        {
+          "date": "2026-11-21",
+          "dateLabel": "21 – 29 novembre",
+          "title": "Semaine européenne de la réduction des déchets",
+          "why": "Thème 2026 : l’utilisation responsable des ressources. Terrain d’observation d’une communication RSE appuyée sur des actions concrètes, sans allégation excessive.",
+          "axis": "communautes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "ADEME",
+            "url": "https://agirpourlatransition.ademe.fr/entreprises/actualites/serd-2026"
           }
         },
         {
@@ -1725,13 +1773,13 @@
         {
           "date": "2026-12-01",
           "dateLabel": "1er décembre",
-          "title": "Giving Tuesday",
-          "why": "Journée mondiale du don, très utilisée par les universités pour mobiliser alumni et donateurs : repère pour tester un appel commun aux différentes formes d’engagement.",
+          "title": "Giving Tuesday France",
+          "why": "Journée du don relayée en France par Giving Tuesday France, avec des kits de communication prêts à l’emploi : repère pour tester un appel commun aux différentes formes d’engagement des alumni.",
           "axis": "communautes",
           "status": "Confirmé",
           "source": {
-            "publisher": "CSU San Bernardino",
-            "url": "https://www.csusb.edu/inside/article/599825/csusbs-2026-giving-tuesday-campaign-invites-coyotes-solve-new-mystery"
+            "publisher": "Giving Tuesday France (Carenews)",
+            "url": "https://www.carenews.com/giving-tuesday-france/evenements/giving-tuesday-2026-la-derniere-ligne-droite-avant-le-jour-j"
           }
         },
         {
@@ -1810,18 +1858,6 @@
         {
           "date": "2026-12-17",
           "dateLabel": "17 décembre",
-          "title": "Parcoursup 2027 : mise en ligne de la carte des formations",
-          "why": "Début de la recherche active des lycéens : messages de marque et supports Bachelor à jour.",
-          "axis": "programmes",
-          "status": "Confirmé",
-          "source": {
-            "publisher": "L’Etudiant",
-            "url": "https://www.letudiant.fr/etudes/parcoursup/on-connait-le-calendrier-de-parcoursup-2027.html"
-          }
-        },
-        {
-          "date": "2026-12-17",
-          "dateLabel": "17 décembre",
           "title": "Budget 2027 : fin du délai constitutionnel de 70 jours",
           "why": "Au-delà, le gouvernement peut recourir aux ordonnances : date limite raisonnable pour arrêter le scénario de la campagne taxe d’apprentissage.",
           "axis": "programmes",
@@ -1829,6 +1865,18 @@
           "source": {
             "publisher": "LCP",
             "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753"
+          }
+        },
+        {
+          "date": "2026-12-17",
+          "dateLabel": "17 décembre",
+          "title": "Parcoursup 2027 : mise en ligne de la carte des formations",
+          "why": "Début de la recherche active des lycéens : messages de marque et supports Bachelor à jour.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "L’Etudiant",
+            "url": "https://www.letudiant.fr/etudes/parcoursup/on-connait-le-calendrier-de-parcoursup-2027.html"
           }
         },
         {
@@ -1918,15 +1966,15 @@
       ],
       "coverage": {
         "marque": "Aucun signal dans la fenêtre : les identités repérées (Trinity University, CSU Channel Islands, Lyon 1 Université) datent de plusieurs mois.",
-        "contenus": "Aucun signal au-dessus du seuil. Les nouveautés de TikTok (vidéos IA de 30 secondes) et de YouTube (extraits de podcasts en Shorts) restent marginales pour le pôle.",
+        "contenus": "Aucun signal au-dessus du seuil. Les nouveautés de TikTok (vidéos IA de 30 secondes) et de YouTube (extraits de podcasts en Shorts) restent marginales pour le pôle. La Journée mondiale de la philosophie (19 novembre) est à l’agenda.",
         "influence": "Aucun signal dans la fenêtre. Le contrat écrit obligatoire avec les créateurs au-delà de 1 000 euros s’applique depuis le 1er janvier 2026.",
         "programmes": "Deux signaux : la loi de régulation du supérieur privé à l’Assemblée, et la correction sur l’article 42 du budget. Deux échéances rejoignent l’agenda.",
         "evenements": "Aucun signal dans la fenêtre. Forum Cap’Com, Salon de l’Étudiant et Infosup restent à l’agenda.",
-        "communautes": "Aucun signal dans la fenêtre. Giving Tuesday (1er décembre) et la clôture de l’enquête CASE sur l’engagement des alumni (15 janvier) rejoignent l’agenda, en appui de la suite proposée en S46.",
+        "communautes": "Aucun signal dans la fenêtre. La semaine qui s’ouvre compte trois rendez-vous à observer (Global Entrepreneurship Week, International Education Week, Semaine européenne de la réduction des déchets) ; Giving Tuesday France (1er décembre) et l’enquête CASE sur l’engagement des alumni (15 janvier) sont à l’agenda.",
         "pilotage": "Un signal : les agents et l’outil de contrôle de charte présentés à Adobe MAX.",
         "horschamp": "Le cas d’école : la troisième publicité de Noël de Coca-Cola générée par IA et les prétests de System1."
       },
-      "notice": "Édition resserrée de 4 signaux : la semaine du 9 au 15 novembre a produit peu de faits nouveaux au-dessus du seuil, et la veille n’en ajoute pas pour atteindre un quota. Collecte de Claude, arrêtée le dimanche 15 novembre au matin ; des contributions d’autres IA pourront être consolidées ensuite. Trois axes sur huit sont couverts. Cette édition corrige l’analyse de l’article 42 publiée en S46. Les sujets d’offre, d’admission et d’acquisition relèvent des pôles Marketing de l’offre et Growth, Digital & Data, ou de la Veille Concurrents & ESR."
+      "notice": "Édition resserrée de 4 signaux : la semaine du 9 au 15 novembre a produit peu de faits nouveaux au-dessus du seuil, et la veille n’en ajoute pas pour atteindre un quota. Elle consolide la collecte de Claude et le dossier de préparation de ChatGPT, qui portait sur la semaine du 16 au 22 novembre : sans signal publié dans la fenêtre, il apporte quatre rendez-vous de la semaine qui s’ouvre, vérifiés et ajoutés à l’agenda. Trois axes sur huit sont couverts. Cette édition corrige l’analyse de l’article 42 publiée en S46. Les sujets d’offre, d’admission et d’acquisition relèvent des pôles Marketing de l’offre et Growth, Digital & Data, ou de la Veille Concurrents & ESR."
     }
   ]
 }

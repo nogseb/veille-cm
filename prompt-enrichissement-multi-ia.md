@@ -45,21 +45,15 @@ Tu es analyste de veille pour le pôle Communication & Marque de TBS Education, 
 
 ### 3.1 Paramètres de la semaine
 
-- **Édition** : S45 · lundi 2 novembre 2026
-- **Fenêtre de collecte** : du lundi 26 octobre au dimanche 1er novembre 2026 inclus
-- **Horizon de l’agenda** : jusqu’au 31 janvier 2027
+- **Convention** : l’édition SNN paraît le lundi de la semaine ISO NN et couvre la semaine précédente, du lundi au dimanche. Une demande portant sur « la semaine à venir » vise l’édition du lundi suivant et sa fenêtre déjà écoulée ; ne produis pas de dossier prospectif sans signaux.
+- **Édition** : S48 · lundi 23 novembre 2026
+- **Fenêtre de collecte** : du lundi 16 au dimanche 22 novembre 2026 inclus
+- **Horizon de l’agenda** : jusqu’au 21 février 2027
 - **Sujets déjà retenus** (ne pas les reproposer, sauf fait nouveau publié dans la fenêtre) :
-  - Loughborough University : campagne de marque adossée à la réputation sportive, kit d’advocacy (29 octobre)
-  - University of Nevada, Reno : déploiement par vagues de la nouvelle identité (27 octobre)
-  - Le Mans Université : film « Le manifeste » nommé au Grand Prix Cap’Com (29 octobre)
-  - The Open University : coproduction de « Blue Planet III » avec la BBC (30 octobre)
-  - UCL : célébration de la campagne « 200 Faces of UCL » (28 octobre)
-  - TikTok : avertissement affiché aux utilisateurs français avant publication (28 octobre)
-  - Taxe d’apprentissage : article 42 du PLF 2027 (12–13 octobre)
-  - SCRP : étude sur les communicants et l’IA (27 octobre)
-  - AI Act, article 50 : transparence des contenus générés par IA (lignes directrices du 20 juillet, échéance du 2 décembre)
-  - Sainsbury’s : campagne de Noël BFG, troisième année de la plateforme (1er novembre)
-  - Examinés mais non retenus, à reproposer seulement avec un fait nouveau et une source primaire : Instagram Features, LinkedIn Pulse, Observatoire de l’ARPP, directive sur les allégations environnementales, Canva Craft, campagne « Unstoppable » d’Oregon
+  - S47 : loi de régulation du supérieur privé à l’Assemblée (semaine du 14 décembre) ; article 42 du PLF 2027 et vote des députés du 4 novembre ; Adobe MAX, agents et Brand Intelligence (10 novembre) ; Coca-Cola, troisième Noël en IA et prétests System1 (9 novembre)
+  - S46 : Bucknell « Be the ’ray » et Mount Holyoke « Forever Uncommon » ; University of Utah « We Are Utah » ; Audencia « Café des Humanités » ; baromètre de l’influence UMICC et CPA ; briefs rédigés avec l’IA ; Levi’s « Let’s Get Fuzzy » ; John Lewis « Gloria and Pickles » ; NICMAR ; Instagram Edits sur Mac ; tableau de performances LinkedIn
+  - S45 : Loughborough, Nevada, Le Mans Université, Open University, UCL, TikTok en France, SCRP, AI Act article 50, Sainsbury’s
+  - Examinés mais non retenus, à reproposer seulement avec un fait nouveau et une source primaire : USC « Electric Futures », Longwood « Docere », OpenAI Images 2.6, TikTok Symphony, extraits de podcasts YouTube en Shorts, LinkedIn sur TV connectée, ChatGPT Business Hub
 
 ### 3.2 Le commanditaire
 
