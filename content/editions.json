@@ -1975,6 +1975,520 @@
         "horschamp": "Le cas d’école : la troisième publicité de Noël de Coca-Cola générée par IA et les prétests de System1."
       },
       "notice": "Édition resserrée de 4 signaux : la semaine du 9 au 15 novembre a produit peu de faits nouveaux au-dessus du seuil, et la veille n’en ajoute pas pour atteindre un quota. Elle consolide la collecte de Claude et le dossier de préparation de ChatGPT, qui portait sur la semaine du 16 au 22 novembre : sans signal publié dans la fenêtre, il apporte quatre rendez-vous de la semaine qui s’ouvre, vérifiés et ajoutés à l’agenda. Trois axes sur huit sont couverts. Cette édition corrige l’analyse de l’article 42 publiée en S46. Les sujets d’offre, d’admission et d’acquisition relèvent des pôles Marketing de l’offre et Growth, Digital & Data, ou de la Veille Concurrents & ESR."
+    },
+    {
+      "id": "2026-11-23-s48",
+      "title": "L’humain revendiqué, le commercial signalé",
+      "date": "2026-11-23",
+      "dateLabel": "23 novembre 2026",
+      "period": "16 – 22 novembre 2026",
+      "periodStart": "2026-11-16",
+      "periodEnd": "2026-11-22",
+      "status": "S48 · Édition resserrée",
+      "intro": "Semaine sans lancement de marque notable dans l’enseignement supérieur, mais un même mouvement ailleurs : rendre visible ce qui est humain et ce qui est commercial. Coca-Cola abandonne l’IA générative pour sa campagne des fêtes américaine. Le Cambridge Dictionary choisit « human » comme mot de l’année. L’Arcom fixe les règles des créateurs d’actualité pour la présidentielle de 2027. Et la proposition européenne de Digital Fairness Act, présentée le 11 novembre, rend les marques responsables de la transparence de leurs partenariats avec des créateurs.",
+      "stake": "Trois lectures pour le pôle : décider à l’avance, et assumer, la place de l’IA dans chaque contenu de la campagne de marque 360 ; montrer par des personnes et des faits ce que l’humain veut dire pour TBS Education, avant que le mot ne s’use ; et vérifier que chaque collaboration avec un créateur, un ambassadeur ou un alumni invité porte une mention et un cadre écrit. Sur la taxe d’apprentissage, la campagne garde ses deux scénarios jusqu’au vote du Sénat du 9 décembre.",
+      "featuredSignal": "coca-cola-enjoy-joy-sans-ia",
+      "featuredFact": "Coca-Cola revient au tournage",
+      "featuredTitle": "Coca-Cola range l’IA générative pour sa campagne des fêtes américaine.",
+      "featuredNote": "Communiqué du 19 novembre et Marketing Dive : un film tourné en prises de vues réelles, après deux Noëls en IA. La marque ne donne pas ses raisons.",
+      "featuredLabel": "Hors champ — inspirations transférables · campagne du 19 novembre 2026",
+      "word": {
+        "term": "Collaboration commerciale",
+        "definition": "Mention qui signale qu’un contenu de créateur est réalisé dans le cadre d’un partenariat avec une marque, rémunéré ou non (produit offert, invitation).",
+        "context": "La loi française du 9 juin 2023 sur l’influence commerciale l’impose déjà. La proposition européenne de Digital Fairness Act généraliserait l’obligation de mention et rendrait l’annonceur responsable de son respect.",
+        "caution": "Proposition en cours d’examen ; libellés de la version française du règlement non vérifiés.",
+        "signal": "dfa-influence-annonceurs"
+      },
+      "kpiLinks": {
+        "consideration": [
+          "coca-cola-enjoy-joy-sans-ia",
+          "cambridge-human-mot-annee"
+        ],
+        "sov": [
+          "arcom-createurs-presidentielle",
+          "cambridge-human-mot-annee"
+        ],
+        "anticipation": [
+          "dfa-influence-annonceurs",
+          "arcom-createurs-presidentielle"
+        ]
+      },
+      "signals": [
+        {
+          "id": "coca-cola-enjoy-joy-sans-ia",
+          "axis": "horschamp",
+          "actor": "Coca-Cola · WPP Open X (Ogilvy)",
+          "caseStudy": true,
+          "label": "Comparer",
+          "priority": "Important",
+          "roadmap": "Considération · Enjeu · Structurer",
+          "status": "Campagne des fêtes américaine, sans IA générative",
+          "timing": "week",
+          "publicationDate": "2026-11-19",
+          "dateLabel": "Lancement : 19 novembre 2026",
+          "title": "Coca-Cola range l’IA générative pour sa campagne des fêtes américaine",
+          "fact": "Le 19 novembre, Coca-Cola dévoile aux États-Unis sa campagne des fêtes « Enjoy Joy » : un film tourné en prises de vues réelles, en versions générale et hispanique, réalisé par Paul Dektor pour WPP Open X sous la conduite d’Ogilvy. Après deux Noëls produits avec l’IA générative et critiqués en ligne, la marque n’y recourt pas cette année, selon Marketing Dive, qui précise que les films précédents avaient dépassé ses repères internes. La caravane de camions prévoit plus de 270 étapes dans plus de 28 villes.",
+          "verdict": "Même quand des films IA tenaient leurs objectifs, une grande marque revient au tournage pour son temps fort : la technique de production devient elle-même un message que le public lit.",
+          "implication": "Pour la campagne de marque 360 : décider, film par film et avant la diffusion, de la place de l’IA et de ce que la marque en dit. Pour la Content Factory : réserver l’IA à la production et aux déclinaisons, et garder les visages, les témoignages et les lieux réels pour les contenus qui portent la promesse de TBS Education.",
+          "limits": "Le communiqué de Coca-Cola ne mentionne pas l’IA : son absence est rapportée par Marketing Dive, ContentGrip et Adweek, et la marque n’explique pas son choix. Campagne américaine ; diffusion dans d’autres pays non documentée. L’édition S47 relayait une tribune de System1 sur le retour des camions « Holidays Are Coming » générés par IA : les deux informations ne sont pas réconciliées à ce stade (films ou marchés possiblement différents). Aucune donnée d’effet.",
+          "analysis": [
+            {
+              "title": "Ce qui est annoncé",
+              "text": "Une campagne des fêtes américaine tournée en prises de vues réelles, déclinée en plusieurs formats et deux versions linguistiques, avec une caravane de camions et une série sociale, après deux années de films produits avec l’IA générative."
+            },
+            {
+              "title": "Ce qui est transposable",
+              "text": "Traiter la technique de production comme une décision de marque prise avant la diffusion, et réserver le réel aux contenus qui portent l’émotion et la promesse."
+            },
+            {
+              "title": "Ce qui reste à prouver",
+              "text": "Les raisons du choix (critiques, stratégie, réorganisation des agences), l’effet de la campagne, et ce qui sera diffusé hors des États-Unis."
+            },
+            {
+              "title": "La question pour TBS Education",
+              "text": "Quels contenus de TBS Education doivent rester tournés avec de vraies personnes, et comment le dire sans dénigrer les usages de l’IA ailleurs dans la production ?"
+            }
+          ],
+          "sources": [
+            {
+              "name": "It’s Beginning to Look a Lot Like Coca-Cola as Brand Unveils 2026 Holiday Campaign",
+              "publisher": "The Coca-Cola Company",
+              "date": "19 novembre 2026",
+              "url": "https://www.coca-colacompany.com/media-center/coca-cola-2026-holiday-campaign",
+              "type": "Annonce primaire — dispositif, sans mention de l’IA"
+            },
+            {
+              "name": "Coca-Cola pivots from divisive AI-generated ads for holiday campaign",
+              "publisher": "Marketing Dive",
+              "date": "19 novembre 2026",
+              "url": "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/",
+              "type": "Presse professionnelle — abandon de l’IA, agences"
+            },
+            {
+              "name": "Coca-Cola trades AI Christmas ads for live-action Enjoy Joy films",
+              "publisher": "ContentGrip",
+              "date": "20 novembre 2026",
+              "url": "https://www.contentgrip.com/coca-cola-enjoy-joy-holiday/",
+              "type": "Média B2B — contenu produit par ContentGrow, recoupement"
+            }
+          ]
+        },
+        {
+          "id": "cambridge-human-mot-annee",
+          "axis": "marque",
+          "actor": "Cambridge Dictionary (Cambridge University Press & Assessment)",
+          "label": "Surveiller",
+          "priority": "À surveiller",
+          "roadmap": "Considération · Share of voice",
+          "status": "Mot de l’année 2026",
+          "timing": "week",
+          "publicationDate": "2026-11-18",
+          "dateLabel": "Annonce : 18 novembre 2026",
+          "title": "« Human », mot de l’année du Cambridge Dictionary",
+          "fact": "Le 18 novembre, le Cambridge Dictionary désigne « human » mot de l’année 2026, défini comme ce qui a les qualités, les défauts et les sentiments propres aux personnes, par opposition aux dieux, aux animaux ou aux machines. Selon son lexicographe Colin McIntosh, cité par l’agence AP, l’IA change la manière de parler de ce qui est humain. Le dictionnaire relève l’essor d’expressions comme « human-made », qui distinguent le travail humain de celui des machines ; « agent » figurait aussi parmi les mots mis en avant.",
+          "verdict": "Le vocabulaire courant enregistre le même mouvement que les marques : l’humain devient un attribut qu’on revendique, donc une promesse qu’il faudra prouver.",
+          "implication": "Pour la plateforme de marque et le thought leadership : vérifier si l’humain (accompagnement, communauté, rencontres) figure déjà parmi les preuves de TBS Education, et le montrer par des personnes et des faits plutôt que par le mot lui-même, que beaucoup de marques vont employer.",
+          "limits": "Choix éditorial d’un dictionnaire britannique, sans chiffre de recherche publié. La page de Cambridge renvoie à une visualisation non consultée ; faits établis d’après la dépêche AP reprise par ITV et l’article de TNW, qui ne citent pas les mêmes mots secondaires. Indicateur culturel, pas mesure d’opinion.",
+          "sources": [
+            {
+              "name": "Cambridge Dictionary Word of the Year 2026: Human",
+              "publisher": "Cambridge Dictionary",
+              "date": "18 novembre 2026",
+              "url": "https://dictionaryblog.cambridge.org/2026/11/18/word-of-the-year-2026/",
+              "type": "Annonce primaire"
+            },
+            {
+              "name": "Cambridge Dictionary chooses ‘human’ as word of the year in response to AI fears",
+              "publisher": "ITV News (dépêche AP)",
+              "date": "18 novembre 2026",
+              "url": "https://www.itv.com/news/2026-11-18/cambridge-dictionary-names-human-as-2026-word-of-the-year",
+              "type": "Presse — définition et citation"
+            },
+            {
+              "name": "Cambridge Dictionary names ‘human’ its word of the year as AI spreads",
+              "publisher": "TNW",
+              "date": "18 novembre 2026",
+              "url": "https://thenextweb.com/news/cambridge-dictionary-names-human-its-word-of-the-year-as-ai-spreads",
+              "type": "Presse — « human-made » et mots associés"
+            }
+          ]
+        },
+        {
+          "id": "arcom-createurs-presidentielle",
+          "axis": "influence",
+          "actor": "Arcom",
+          "label": "Préparer",
+          "priority": "À surveiller",
+          "roadmap": "Share of voice · Anticipation",
+          "status": "Règles publiées pour la présidentielle de 2027",
+          "timing": "week",
+          "publicationDate": "2026-11-19",
+          "dateLabel": "Publication : 19 novembre 2026 · application à partir du 16 mars 2027",
+          "title": "Présidentielle 2027 : l’Arcom soumet les créateurs d’actualité aux règles des médias",
+          "fact": "Le 19 novembre, l’Arcom publie les règles applicables aux créateurs de contenus pendant l’élection présidentielle de 2027. Sont visés les créateurs dont la chaîne relève juridiquement d’un service de médias audiovisuels à la demande et qui traitent régulièrement de l’élection ; une vidéo isolée devenue virale ne suffit pas. Ils devront respecter l’équité du 16 mars au 4 avril 2027, puis l’égalité à partir du 5 avril, une exigence de mesure et d’honnêteté, et le silence électoral à partir de la veille du scrutin.",
+          "verdict": "Les grands créateurs d’information seront traités comme des médias pendant la campagne : ils deviendront plus prudents sur leurs invités et sur les sujets liés au débat électoral.",
+          "implication": "Pour les RP et le thought leadership : au printemps 2027, les experts de TBS Education invités par des créateurs d’actualité interviendront dans un cadre proche de celui de l’audiovisuel. Préparer une note courte pour les experts (calendrier, sujets de campagne, neutralité de l’école) et privilégier, pendant cette période, les sujets d’expertise éloignés du débat électoral.",
+          "limits": "Règles de l’Arcom ; le périmètre exact (quelles chaînes relèvent d’un service de médias audiovisuels à la demande) s’apprécie au cas par cas. Ne vise ni les créateurs qui ne traitent pas régulièrement de la présidentielle ni la communication des établissements. Article de franceinfo sur le même sujet non consulté. Lecture à valider avec le juridique.",
+          "sources": [
+            {
+              "name": "Créateurs de contenus : les règles fixées par l’Arcom durant la présidentielle 2027",
+              "publisher": "Arcom",
+              "date": "19 novembre 2026",
+              "url": "https://www.arcom.fr/actualites/createurs-de-contenus-les-regles-fixees-par-larcom-durant-la-presidentielle-2027",
+              "type": "Source officielle"
+            }
+          ]
+        },
+        {
+          "id": "dfa-influence-annonceurs",
+          "axis": "influence",
+          "actor": "Commission européenne",
+          "label": "Vérifier",
+          "priority": "Important",
+          "roadmap": "Anticipation · Enjeu · Structurer",
+          "status": "Proposition de règlement, à examiner par le Parlement et le Conseil",
+          "timing": "context",
+          "publicationDate": "2026-11-11",
+          "dateLabel": "Proposition : 11 novembre 2026",
+          "title": "Digital Fairness Act : Bruxelles rend les marques comptables de la transparence de leurs créateurs",
+          "fact": "Le 11 novembre, la Commission européenne présente sa proposition de Digital Fairness Act, un règlement qui remplacerait la directive sur les pratiques commerciales déloyales. Elle prévoit une mention claire de toute communication commerciale d’un créateur, l’usage des outils de déclaration des plateformes et, pour l’annonceur, l’obligation de s’assurer par contrat que le créateur respecte ces règles. Le texte reprend les interdictions d’allégations environnementales génériques ou de neutralité carbone fondée sur la compensation, sans la vérification préalable prévue par le projet « Green Claims », dont le retrait est programmé.",
+          "verdict": "La responsabilité de la transparence remonte du créateur vers la marque qui le rémunère ou l’invite, y compris quand aucun contrat formel n’existe.",
+          "implication": "Pour la mission Influence : vérifier que les accords avec les créateurs, les étudiants ambassadeurs et les alumni rémunérés ou invités prévoient la mention et son contrôle. Pour la communication RSE et la Fondation : écarter dès maintenant les allégations génériques (« responsable », « neutre en carbone ») non étayées, déjà interdites par la directive européenne de 2024.",
+          "limits": "Proposition, susceptible d’évoluer ; application prévue douze mois après l’entrée en vigueur d’un règlement non encore adopté. Détail des obligations établi d’après des analyses secondaires (Affiverse, cabinet Gossement), texte officiel non lu en entier. Antérieur à la fenêtre et non traité en S47. À valider avec le juridique.",
+          "sources": [
+            {
+              "name": "Making your online experience fairer",
+              "publisher": "Commission européenne",
+              "date": "11 novembre 2026",
+              "url": "https://commission.europa.eu/news-and-media/news/making-your-online-experience-fairer-2026-11-11_en",
+              "type": "Source officielle — présentation de la proposition"
+            },
+            {
+              "name": "Greenwashing : avec la proposition de règlement « Digital Fairness Act », la Commission européenne veut rendre directement applicables les règles relatives aux allégations environnementales",
+              "publisher": "Cabinet Gossement Avocats",
+              "date": "12 novembre 2026",
+              "url": "https://www.gossement-avocats.com/blog/greenwashing-avec-la-proposition-de-reglement-digital-fairness-act-la-commission-europeenne-veut-rendre-directement-applicables-dans-les-etats-membres-les-regles-relatives-aux-allegat/",
+              "type": "Analyse juridique — allégations environnementales, calendrier"
+            },
+            {
+              "name": "EU Digital Fairness Act draft sets out influencer ad rules",
+              "publisher": "Affiverse",
+              "date": "13 novembre 2026",
+              "url": "https://www.affiversemedia.com/eu-digital-fairness-act-influencer-disclosures/",
+              "type": "Analyse secondaire — article 11, obligations des annonceurs"
+            },
+            {
+              "name": "Greenwashing : la Commission européenne confirme l’abandon de la proposition de directive « Green Claims »",
+              "publisher": "Cabinet Gossement Avocats",
+              "date": "6 novembre 2026",
+              "url": "https://www.gossement-avocats.com/blog/greenwashing-la-commission-europeenne-annonce-labandon-de-la-proposition-de-directive-green-claims-sur-les-allegations-environnementales-explicites-programme-de-travail-pour/",
+              "type": "Analyse juridique — retrait de « Green Claims »"
+            }
+          ]
+        }
+      ],
+      "perspectives": [
+        {
+          "id": "panorama",
+          "name": "Le panorama",
+          "question": "Que retenir de la semaine ?",
+          "text": "",
+          "signals": [
+            "coca-cola-enjoy-joy-sans-ia",
+            "cambridge-human-mot-annee",
+            "arcom-createurs-presidentielle",
+            "dfa-influence-annonceurs"
+          ]
+        },
+        {
+          "id": "fil-rouge",
+          "name": "Le fil rouge",
+          "question": "Qu’est-ce qui relie les sujets ?",
+          "text": "Ce qui est humain et ce qui est commercial doivent se voir. Coca-Cola revient au tournage après deux Noëls en IA ; le Cambridge Dictionary fait de « human » son mot de l’année ; Bruxelles veut que chaque partenariat de créateur soit signalé et que la marque en réponde ; l’Arcom traite les créateurs d’actualité comme des médias pendant la présidentielle. La manière dont un contenu est produit, et pour qui, devient une information due au public.",
+          "signals": [
+            "coca-cola-enjoy-joy-sans-ia",
+            "cambridge-human-mot-annee",
+            "dfa-influence-annonceurs",
+            "arcom-createurs-presidentielle"
+          ]
+        },
+        {
+          "id": "tensions",
+          "name": "Les tensions",
+          "question": "Quelles dynamiques lire ensemble ?",
+          "text": "Efficacité contre perception : les films IA de Coca-Cola dépassaient ses repères internes, la marque change pourtant de cap. Liberté contre cadre : les créateurs séduisent par leur liberté de ton, mais la réglementation les rapproche des médias et des annonceurs. Mot contre preuve : revendiquer l’humain ne vaut que si des personnes et des faits le montrent.",
+          "signals": [
+            "coca-cola-enjoy-joy-sans-ia",
+            "arcom-createurs-presidentielle",
+            "dfa-influence-annonceurs",
+            "cambridge-human-mot-annee"
+          ]
+        },
+        {
+          "id": "concurrence",
+          "name": "La lecture concurrentielle",
+          "question": "Où se jouera la différenciation ?",
+          "text": "Si « humain » devient un mot partagé par toutes les marques, il ne différenciera plus : l’écart se fera sur les preuves (personnes réelles, lieux, accompagnement) et sur la transparence des partenariats avec les créateurs. Cette lecture ne mesure pas la position des écoles concurrentes.",
+          "signals": [
+            "cambridge-human-mot-annee",
+            "dfa-influence-annonceurs"
+          ]
+        }
+      ],
+      "agenda": [
+        {
+          "date": "2026-11-23",
+          "dateLabel": "Jusqu’au 28 novembre",
+          "title": "Sénat : suite de l’examen de la partie recettes du projet de loi de finances 2027",
+          "why": "L’article 42 sur le solde de la taxe d’apprentissage figure dans le texte transmis ; la position de la commission des finances n’est pas établie à ce stade : suivre les amendements de suppression.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "NosParlementaires",
+            "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+          }
+        },
+        {
+          "date": "2026-11-23",
+          "dateLabel": "Jusqu’au 29 novembre",
+          "title": "Semaine européenne de la réduction des déchets",
+          "why": "Thème 2026 : l’utilisation responsable des ressources. Terrain d’observation d’une communication RSE appuyée sur des actions concrètes, sans allégation excessive.",
+          "axis": "communautes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "ADEME",
+            "url": "https://agirpourlatransition.ademe.fr/entreprises/actualites/serd-2026"
+          }
+        },
+        {
+          "date": "2026-12-01",
+          "dateLabel": "1er – 3 décembre",
+          "title": "38e Forum Cap’Com, Biarritz",
+          "why": "Rendez-vous de la communication publique ; palmarès du Grand Prix le 2 décembre, où Le Mans Université est le seul établissement d’enseignement supérieur nommé.",
+          "axis": "marque",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Cap’Com",
+            "url": "https://www.cap-com.org/le-38e-forum-de-la-communication-publique-et-territoriale"
+          }
+        },
+        {
+          "date": "2026-12-01",
+          "dateLabel": "1er décembre",
+          "title": "Giving Tuesday France",
+          "why": "Journée du don relayée en France par Giving Tuesday France, avec des kits de communication prêts à l’emploi : repère pour tester un appel commun aux différentes formes d’engagement des alumni.",
+          "axis": "communautes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Giving Tuesday France (Carenews)",
+            "url": "https://www.carenews.com/giving-tuesday-france/evenements/giving-tuesday-2026-la-derniere-ligne-droite-avant-le-jour-j"
+          }
+        },
+        {
+          "date": "2026-12-02",
+          "dateLabel": "2 décembre",
+          "title": "AI Act : fin du délai de grâce pour le marquage des contenus par les outils déjà sur le marché",
+          "why": "Les outils de génération utilisés par l’équipe devront marquer leurs contenus : vérifier leurs paramètres et la règle interne d’étiquetage.",
+          "axis": "pilotage",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Faegre Drinker",
+            "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/eu-ai-act-commission-confirms-transparency-code-of-practice-as-adequate-and-publishes-final-version-of-its-guidelines-on-transparency-obligations"
+          }
+        },
+        {
+          "date": "2026-12-07",
+          "dateLabel": "Début décembre",
+          "title": "Classement Financial Times des business schools européennes",
+          "why": "Publié début décembre les années précédentes : préparer éléments de langage et visuels selon plusieurs scénarios de résultat.",
+          "axis": "marque",
+          "status": "Indicatif",
+          "note": "Date déduite des éditions précédentes.",
+          "source": {
+            "publisher": "Frankfurt School (édition 2025)",
+            "url": "https://www.frankfurt-school.de/en/home/news/2025/12/financial-times-european-business-school-ranking"
+          }
+        },
+        {
+          "date": "2026-12-07",
+          "dateLabel": "7 – 8 décembre",
+          "title": "Assemblée nationale : examen en commission du projet de loi de régulation du supérieur privé",
+          "why": "Première lecture des députés, en commission des affaires culturelles et de l’éducation, avec Anne Genetet pour rapporteure (désignée le 18 novembre) : repérer les changements sur les mentions obligatoires des supports.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Thotis",
+            "url": "https://thotismedia.com/regulation-superieur-prive-anne-genetet-nommee-rapporteure-pjl"
+          }
+        },
+        {
+          "date": "2026-12-09",
+          "dateLabel": "9 décembre",
+          "title": "Sénat : vote sur l’ensemble du projet de loi de finances 2027",
+          "why": "Premier signal sur le sort de l’article 42, deux jours avant la clôture des habilitations SOLTéA.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "NosParlementaires",
+            "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+          }
+        },
+        {
+          "date": "2026-12-11",
+          "dateLabel": "11 décembre",
+          "title": "SOLTéA : clôture des demandes d’habilitation pour le solde 2027 de la taxe d’apprentissage",
+          "why": "Préalable à toute campagne entreprises, deux jours après le vote du Sénat : vérifier avec les équipes concernées que l’habilitation est engagée.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Via Compétences",
+            "url": "https://www.via-competences.fr/actualites/solde-de-la-taxe-dapprentissage-campagne-2027"
+          }
+        },
+        {
+          "date": "2026-12-12",
+          "dateLabel": "12 décembre",
+          "title": "Salon de l’Étudiant Grandes écoles, Toulouse",
+          "why": "Temps fort de visibilité face aux écoles concurrentes, quelques jours avant la mise en ligne de l’offre Parcoursup.",
+          "axis": "evenements",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "L’Etudiant",
+            "url": "https://www.letudiant.fr/etudes/salons/ville-toulouse.html"
+          }
+        },
+        {
+          "date": "2026-12-14",
+          "dateLabel": "Semaine du 14 décembre",
+          "title": "Assemblée nationale : examen du projet de loi de régulation de l’enseignement supérieur privé",
+          "why": "Mentions obligatoires sur les supports de présentation des formations et agréments : suivre les modifications des députés.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "Thotis",
+            "url": "https://thotismedia.com/universites-licence-examen-texte-superieur-prive-decembre/"
+          }
+        },
+        {
+          "date": "2026-12-17",
+          "dateLabel": "17 décembre",
+          "title": "Budget 2027 : fin du délai constitutionnel de 70 jours",
+          "why": "Au-delà, le gouvernement peut recourir aux ordonnances : date limite raisonnable pour arrêter le scénario de la campagne taxe d’apprentissage.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "LCP",
+            "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753"
+          }
+        },
+        {
+          "date": "2026-12-17",
+          "dateLabel": "17 décembre",
+          "title": "Parcoursup 2027 : mise en ligne de la carte des formations",
+          "why": "Début de la recherche active des lycéens : messages de marque et supports Bachelor à jour.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "L’Etudiant",
+            "url": "https://www.letudiant.fr/etudes/parcoursup/on-connait-le-calendrier-de-parcoursup-2027.html"
+          }
+        },
+        {
+          "date": "2027-01-01",
+          "dateLabel": "1er janvier",
+          "title": "Réseaux sociaux : interdiction aux moins de 15 ans étendue aux comptes existants",
+          "why": "Vérification d’âge annoncée pour tous les utilisateurs. Les lycéens ciblés ne sont pas concernés par l’interdiction, mais les parcours d’inscription des plateformes peuvent évoluer.",
+          "axis": "influence",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "CIDJ",
+            "url": "https://www.cidj.com/bien-vivre/sa-vie-numerique/les-reseaux-sociaux-interdits-aux-jeunes-de-moins-de-15-ans-des-la-rentree"
+          }
+        },
+        {
+          "date": "2027-01-07",
+          "dateLabel": "7 – 9 janvier",
+          "title": "Salon Infosup, Toulouse (MEETT)",
+          "why": "Grand rendez-vous régional de l’orientation : stand, prises de parole et contenus sociaux à planifier dès décembre.",
+          "axis": "evenements",
+          "status": "Indicatif",
+          "note": "Dates du 7 au 9 janvier 2027 confirmées par un exposant et par la contribution ChatGPT ; page de l’organisateur non consultée.",
+          "source": {
+            "publisher": "Toulouse School of Economics",
+            "url": "https://www.tse-fr.eu/fr/actualites/rdv-salon-infosup-du-7-9-janvier-2027"
+          }
+        },
+        {
+          "date": "2027-01-15",
+          "dateLabel": "15 janvier",
+          "title": "CASE : clôture de l’enquête internationale sur l’engagement des alumni (exercice 2026)",
+          "why": "Mesure l’engagement selon quatre modes (don, bénévolat, expérience, communication) : référence possible pour définir l’engagement des alumni de TBS Education.",
+          "axis": "communautes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "CASE",
+            "url": "https://www.case.org/case-global-alumni-engagement-metrics-survey"
+          }
+        },
+        {
+          "date": "2027-01-18",
+          "dateLabel": "18 janvier",
+          "title": "Parcoursup 2027 : ouverture des inscriptions et des vœux",
+          "why": "Pic d’attention des lycéens et des parents : temps forts de marque et contenus à caler en amont.",
+          "axis": "programmes",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "L’Etudiant",
+            "url": "https://www.letudiant.fr/etudes/parcoursup/on-connait-le-calendrier-de-parcoursup-2027.html"
+          }
+        },
+        {
+          "date": "2027-01-30",
+          "dateLabel": "30 janvier",
+          "title": "Salon de l’Étudiant formations et recrutement en alternance, Toulouse",
+          "why": "Public différent des salons post-bac : messages alternance et preuves entreprises à mobiliser.",
+          "axis": "evenements",
+          "status": "Confirmé",
+          "source": {
+            "publisher": "L’Etudiant",
+            "url": "https://www.letudiant.fr/etudes/salons/ville-toulouse.html"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "title": "Fixer la place de l’IA, contenu par contenu, dans la campagne de marque 360",
+          "owner": "Mission 01 Marque & corporate, avec la Content Factory — proposé",
+          "horizon": "Avant la validation des scripts de la campagne 360",
+          "result": "Pour chaque contenu, une ligne : usage de l’IA (aucun, production, déclinaison), raison et mention prévue ; et la liste des contenus réservés aux prises de vues réelles (témoignages, campus, personnes).",
+          "signal": "coca-cola-enjoy-joy-sans-ia"
+        },
+        {
+          "title": "Vérifier les mentions et le cadre écrit des collaborations avec des créateurs",
+          "owner": "Mission 03 Influence, RP & social media, avec le juridique — à confirmer",
+          "horizon": "Premier trimestre 2027",
+          "result": "Un état des collaborations en cours (créateurs, ambassadeurs, alumni invités) avec la mention utilisée, la clause prévue et le contrôle effectué, et une clause type.",
+          "signal": "dfa-influence-annonceurs"
+        },
+        {
+          "title": "Préparer une note pour les experts sollicités par des créateurs pendant la présidentielle",
+          "owner": "Mission 03 Influence, RP & social media — proposé",
+          "horizon": "Avant le 16 mars 2027",
+          "result": "Une page : périodes d’équité et d’égalité, sujets à traiter avec prudence, neutralité de l’école, contact RP à prévenir avant d’accepter une invitation.",
+          "signal": "arcom-createurs-presidentielle"
+        }
+      ],
+      "coverage": {
+        "marque": "Un signal : « human », mot de l’année du Cambridge Dictionary. Aucune nouvelle identité d’établissement datée de la fenêtre n’a été trouvée ; celles repérées (SKEMA, Edith Cowan University) sont antérieures ou non datées.",
+        "contenus": "Aucun signal dans la fenêtre. Les nouveautés relevées (formats longs financés par Instagram, outils créateurs de LinkedIn) sont antérieures ou relèvent de la publicité.",
+        "influence": "Deux signaux : les règles de l’Arcom pour les créateurs pendant la présidentielle, et la proposition européenne de Digital Fairness Act (11 novembre, non traitée en S47).",
+        "programmes": "Aucun signal. Loi sur le supérieur privé : Anne Genetet désignée rapporteure le 18 novembre, examen en commission les 7 et 8 décembre, ajouté à l’agenda. Article 42 : la position du Sénat n’est pas établie à la date de l’édition.",
+        "evenements": "Aucun signal dans la fenêtre. Forum Cap’Com, Salon de l’Étudiant et Infosup restent à l’agenda.",
+        "communautes": "Aucun signal : la Global Entrepreneurship Week, l’International Education Week et le Giving Day de Loughborough n’ont pas produit de dispositif documenté et daté au-dessus du seuil. Giving Tuesday France (1er décembre) reste à l’agenda.",
+        "pilotage": "Aucun signal dans la fenêtre. L’échéance de l’AI Act sur le marquage des contenus (2 décembre) reste à l’agenda.",
+        "horschamp": "Le cas d’école : Coca-Cola revient aux prises de vues réelles pour sa campagne des fêtes américaine."
+      },
+      "notice": "Édition resserrée de 4 signaux : la semaine du 16 au 22 novembre a produit peu de faits nouveaux au-dessus du seuil, et la veille n’en ajoute pas pour atteindre un quota. Elle repose sur la seule collecte de Claude ; des contributions d’autres IA pourront être consolidées ensuite. Le cas d’école nuance celui de la S47 : la tribune de System1 décrivait le retour des camions générés par IA, alors que la nouvelle campagne américaine n’utilise pas l’IA générative. Trois axes sur huit sont couverts. Les sujets d’offre, d’admission et d’acquisition relèvent des pôles Marketing de l’offre et Growth, Digital & Data, ou de la Veille Concurrents & ESR."
     }
   ]
 }
