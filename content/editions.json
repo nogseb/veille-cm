@@ -1989,8 +1989,8 @@
       "stake": "Trois lectures pour le pôle : décider à l’avance, et assumer, la place de l’IA dans chaque contenu de la campagne de marque 360 ; montrer par des personnes et des faits ce que l’humain veut dire pour TBS Education, avant que le mot ne s’use ; et vérifier que chaque collaboration avec un créateur, un ambassadeur ou un alumni invité porte une mention et un cadre écrit. Sur la taxe d’apprentissage, la campagne garde ses deux scénarios jusqu’au vote du Sénat du 9 décembre.",
       "featuredSignal": "coca-cola-enjoy-joy-sans-ia",
       "featuredFact": "Coca-Cola revient au tournage",
-      "featuredTitle": "Coca-Cola range l’IA générative pour sa campagne des fêtes américaine.",
-      "featuredNote": "Communiqué du 19 novembre et Marketing Dive : un film tourné en prises de vues réelles, après deux Noëls en IA. La marque ne donne pas ses raisons.",
+      "featuredTitle": "Coca-Cola tourne sans IA générative sa campagne des fêtes américaine.",
+      "featuredNote": "Communiqué du 19 novembre, Marketing Dive et MediaPost : un film en prises de vues réelles, « un autre type de publicité » selon une porte-parole, pas un changement de politique.",
       "featuredLabel": "Hors champ — inspirations transférables · campagne du 19 novembre 2026",
       "word": {
         "term": "Collaboration commerciale",
@@ -2026,11 +2026,11 @@
           "timing": "week",
           "publicationDate": "2026-11-19",
           "dateLabel": "Lancement : 19 novembre 2026",
-          "title": "Coca-Cola range l’IA générative pour sa campagne des fêtes américaine",
+          "title": "Coca-Cola tourne sans IA générative sa campagne des fêtes américaine",
           "fact": "Le 19 novembre, Coca-Cola dévoile aux États-Unis sa campagne des fêtes « Enjoy Joy » : un film tourné en prises de vues réelles, en versions générale et hispanique, réalisé par Paul Dektor pour WPP Open X sous la conduite d’Ogilvy. Après deux Noëls produits avec l’IA générative et critiqués en ligne, la marque n’y recourt pas cette année, selon Marketing Dive, qui précise que les films précédents avaient dépassé ses repères internes. La caravane de camions prévoit plus de 270 étapes dans plus de 28 villes.",
-          "verdict": "Même quand des films IA tenaient leurs objectifs, une grande marque revient au tournage pour son temps fort : la technique de production devient elle-même un message que le public lit.",
+          "verdict": "Coca-Cola choisit la technique film par film : une porte-parole parle d’« un autre type de publicité », pas d’un changement de politique, et les camions générés par IA reviennent par ailleurs. La technique de production devient un choix éditorial que le public lit.",
           "implication": "Pour la campagne de marque 360 : décider, film par film et avant la diffusion, de la place de l’IA et de ce que la marque en dit. Pour la Content Factory : réserver l’IA à la production et aux déclinaisons, et garder les visages, les témoignages et les lieux réels pour les contenus qui portent la promesse de TBS Education.",
-          "limits": "Le communiqué de Coca-Cola ne mentionne pas l’IA : son absence est rapportée par Marketing Dive, ContentGrip et Adweek, et la marque n’explique pas son choix. Campagne américaine ; diffusion dans d’autres pays non documentée. L’édition S47 relayait une tribune de System1 sur le retour des camions « Holidays Are Coming » générés par IA : les deux informations ne sont pas réconciliées à ce stade (films ou marchés possiblement différents). Aucune donnée d’effet.",
+          "limits": "Le communiqué de Coca-Cola ne mentionne pas l’IA : son absence est rapportée par Marketing Dive, ContentGrip, Adweek et MediaPost, qui cite une porte-parole. Campagne américaine ; les marchés où circule la publicité des camions générée par IA, testée par System1 (S47), ne sont pas précisés. Aucune donnée d’effet. Nuance ajoutée le 26 novembre.",
           "analysis": [
             {
               "title": "Ce qui est annoncé",
@@ -2070,6 +2070,20 @@
               "date": "20 novembre 2026",
               "url": "https://www.contentgrip.com/coca-cola-enjoy-joy-holiday/",
               "type": "Média B2B — contenu produit par ContentGrow, recoupement"
+            },
+            {
+              "name": "Coke Drops ‘Enjoy Joy’ With Key Ingredient: Humans",
+              "publisher": "MediaPost",
+              "date": "20 novembre 2026",
+              "url": "https://www.mediapost.com/publications/article/419592/coke-drops-enjoy-joy-with-key-ingredient-humans.html",
+              "type": "Presse professionnelle — déclaration d’une porte-parole"
+            },
+            {
+              "name": "Coca-Cola wouldn’t make a third AI Christmas ad if online backlash mattered enough",
+              "publisher": "The Drum",
+              "date": "9 novembre 2026",
+              "url": "https://www.thedrum.com/opinion/coca-cola-wouldn-t-make-a-third-ai-christmas-ad-if-online-backlash-mattered-enough",
+              "type": "Tribune (System1) — publicité IA 2026 testée"
             }
           ]
         },

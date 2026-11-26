@@ -1,0 +1,214 @@
+{
+  "edition": "S49 · lundi 30 novembre 2026 · fenêtre du 23 au 29 novembre",
+  "etat": "Sélection provisoire du 26 novembre : à rouvrir et compléter (27 au 29 novembre) avant publication",
+  "contributions": [
+    "ChatGPT, module A, 24 novembre (content/collecte/2026-S49/chatgpt-module-a-2026-11-24.md)",
+    "Claude, collecte et contre-vérification, 26 novembre"
+  ],
+  "signals": [
+    {
+      "id": "penn-state-brands-that-matter",
+      "axis": "marque",
+      "actor": "Penn State · Fast Company",
+      "caseStudy": true,
+      "label": "Comparer",
+      "priority": "Important",
+      "roadmap": "Considération · Share of voice",
+      "status": "Distinction d’une campagne de marque",
+      "timing": "week",
+      "publicationDate": "2026-11-25",
+      "dateLabel": "Publication : 25 novembre 2026",
+      "title": "Penn State, seule université des « Brands That Matter » 2026, grâce à un plaidoyer pour la recherche",
+      "fact": "Le 25 novembre, Penn State annonce figurer, seul établissement d’enseignement supérieur, parmi les 125 « Brands That Matter » 2026 de Fast Company. Le magazine retient sa capacité à relier sa mission historique aux défis actuels, illustrée par « Research or Regress », lancée en 2025 face aux menaces sur le financement fédéral de la recherche. La campagne donne la parole à des agriculteurs, soignants, patients et élus, montre ce qui serait perdu sans recherche et s’accompagne d’une pétition.",
+      "verdict": "La recherche est racontée par ceux qui en bénéficient plutôt que par ceux qui la produisent, et la marque prend position sur un enjeu public sans parler d’elle-même.",
+      "implication": "Pour le thought leadership et la valorisation de la recherche de TBS Education : construire quelques récits d’impact portés par des entreprises, des territoires ou des diplômés qui bénéficient des travaux des chercheurs, plutôt que par les chercheurs seuls.",
+      "limits": "Distinction d’un magazine sur des critères éditoriaux ; liste de Fast Company non consultée directement. Contexte américain de mobilisation contre des coupes budgétaires fédérales. Le nombre de signatures de la pétition, cité par la presse locale, n’apparaît pas sur la page de la campagne.",
+      "analysis": [
+        {
+          "title": "Ce qui est annoncé",
+          "text": "Une distinction de Fast Company, une campagne de plaidoyer lancée en 2025, des témoignages de bénéficiaires, des fiches « ce qui est menacé » par domaine et une pétition."
+        },
+        {
+          "title": "Ce qui est transposable",
+          "text": "Faire parler les bénéficiaires de la recherche ; relier la mission de l’établissement à un enjeu de société ; décliner un même récit en témoignages, fiches et tribunes de dirigeants."
+        },
+        {
+          "title": "Ce qui reste à prouver",
+          "text": "L’effet de la campagne sur la perception de Penn State et sur le débat budgétaire ; la transposition hors d’un contexte de mobilisation politique."
+        },
+        {
+          "title": "La question pour TBS Education",
+          "text": "Quels bénéficiaires des travaux des chercheurs de TBS Education pourraient raconter, mieux que l’École, ce que cette recherche change ?"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Penn State Named Only College on Fast Company’s 2026 ‘Brands That Matter’ List",
+          "publisher": "StateCollege.com",
+          "date": "25 novembre 2026",
+          "url": "https://www.statecollege.com/articles/psu-news/penn-state-named-only-college-on-fast-companys-2026-brands-that-matter-list/",
+          "type": "Presse locale"
+        },
+        {
+          "name": "Research or Regress",
+          "publisher": "Penn State",
+          "date": "page de campagne",
+          "url": "https://psu.edu/researchorregress",
+          "type": "Source primaire"
+        }
+      ]
+    },
+    {
+      "id": "leicester-vice-chancelier-sri-lanka",
+      "axis": "influence",
+      "actor": "University of Leicester",
+      "label": "Comparer",
+      "priority": "Important",
+      "roadmap": "Share of voice",
+      "status": "Récit de déplacement de direction, en série",
+      "timing": "week",
+      "publicationDate": "2026-11-23",
+      "dateLabel": "Publication : 23 novembre 2026 · suite : 25 novembre 2026",
+      "title": "Leicester raconte la tournée de son vice-chancelier au Sri Lanka, son pays natal",
+      "fact": "Le 23 novembre, University of Leicester publie le récit du retour de son vice-chancelier, Sir Nishan Canagarajah, dans son ancienne école de Jaffna, au début d’une semaine au Sri Lanka. Il y annonce un don personnel pour un fonds d’éducation, raconte son parcours, puis rencontre la direction de l’Université de Jaffna, déjà liée à Leicester par des travaux sur le patrimoine. Un deuxième article, le 25 novembre, relate sa rencontre avec la Première ministre. La tournée vise partenariats, recherche et recrutement.",
+      "verdict": "Le déplacement d’un dirigeant devient un feuilleton éditorial : une trajectoire personnelle sert de fil, les partenariats existants de preuve.",
+      "implication": "Pour les déplacements internationaux de la direction de TBS Education : préparer en amont un récit en plusieurs épisodes, adossé à des partenaires, des travaux communs et des diplômés locaux, plutôt qu’un compte rendu unique au retour.",
+      "limits": "Récits institutionnels sans retombées publiées. La trajectoire du vice-chancelier est propre à ce cas. Le volet recrutement relève du pôle Marketing de l’offre.",
+      "sources": [
+        {
+          "name": "University of Leicester Vice-Chancellor returns to his roots with Sri Lankan school visit",
+          "publisher": "University of Leicester",
+          "date": "23 novembre 2026",
+          "url": "https://le.ac.uk/news/2026/november/university-of-leicester-vice-chancellor-sri-lanka-school-jaffna",
+          "type": "Source primaire, proposée par ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "ucl-podcast-etudiant-londres",
+      "axis": "contenus",
+      "actor": "University College London",
+      "label": "Tester",
+      "priority": "À surveiller",
+      "roadmap": "Enjeu · Monter en puissance",
+      "status": "Retour d’expérience et reconduction annoncée",
+      "timing": "week",
+      "publicationDate": "2026-11-23",
+      "dateLabel": "Publication : 23 novembre 2026 · défi reconduit au troisième trimestre 2026-2027",
+      "title": "UCL publie le podcast écrit par des étudiants sur ce que Londres change en eux",
+      "fact": "Le 23 novembre, UCL présente « Between Places », podcast lauréat de son défi ExtendED Learning. En trois jours, des équipes d’étudiants de disciplines et de niveaux différents, qui ne se connaissaient pas, ont conçu un sujet, réparti les rôles et écrit un script. L’équipe gagnante a enregistré avec l’équipe Educational Media de l’université un épisode de quinze minutes sur la façon dont vivre et étudier à Londres façonne l’identité de jeunes de cultures diverses. Le défi reviendra en 2026-2027.",
+      "verdict": "La ville fournit la question éditoriale ; les étudiants choisissent l’angle et la voix, le studio de l’université assure la qualité.",
+      "implication": "Pour la Content Factory : tester un format court écrit par des étudiants à partir d’une question sur leur ville de campus, avec un accompagnement au montage, en précisant qui choisit l’angle, qui valide et qui autorise la diffusion.",
+      "limits": "Dispositif pédagogique d’abord, valorisé par l’établissement qui l’organise. Audience et effets sur la marque non publiés.",
+      "sources": [
+        {
+          "name": "Student podcast explores how London enriches their understanding of multicultural identities",
+          "publisher": "UCL News",
+          "date": "23 novembre 2026",
+          "url": "https://www.ucl.ac.uk/news/2026/nov/student-podcast-explores-how-london-enriches-their-understanding-multicultural-identities",
+          "type": "Source primaire, proposée par ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "lafayette-capsule-bicentenaire",
+      "axis": "communautes",
+      "actor": "Lafayette College",
+      "label": "S’inspirer",
+      "priority": "À surveiller",
+      "roadmap": "Considération",
+      "status": "Activation d’anniversaire",
+      "timing": "week",
+      "publicationDate": "2026-11-23",
+      "dateLabel": "Publication : 23 novembre 2026 · cérémonie : 19 novembre 2026",
+      "title": "Lafayette College referme ses capsules temporelles avec les idées de ses étudiants",
+      "fact": "Le 23 novembre, Lafayette College raconte la cérémonie du 19 novembre au cours de laquelle les capsules temporelles de 1833, 1932 et 1962 ont été replacées dans la pierre angulaire de South College, avec une nouvelle capsule du bicentenaire. Les étudiants ont proposé sur les réseaux sociaux les objets à y glisser, parmi lesquels des lettres de leurs représentants. Les archives ont publié une exposition en ligne qui photographie et décrit chaque objet.",
+      "verdict": "L’anniversaire devient une collecte participative : les étudiants choisissent les traces, les archives en font un contenu durable.",
+      "implication": "Pour un temps fort institutionnel de TBS Education : associer étudiants, alumni et personnels au choix des traces à conserver, et prévoir dès le départ la forme durable (exposition en ligne, série courte) qui prolongera l’événement.",
+      "limits": "Format lié à un bicentenaire et à des archives anciennes. Nombre de propositions, audience et budget non publiés.",
+      "sources": [
+        {
+          "name": "Time capsules resealed for future generations in ceremony at South College",
+          "publisher": "Lafayette College",
+          "date": "23 novembre 2026",
+          "url": "https://news.lafayette.edu/2026/11/23/time-capsules-resealed-for-future-generations-in-ceremony-at-south-college/",
+          "type": "Source primaire, proposée par ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "semaine-communication-ia-confiance",
+      "axis": "pilotage",
+      "actor": "Filière Communication · France Télévisions",
+      "label": "Vérifier",
+      "priority": "À surveiller",
+      "roadmap": "Enjeu · Structurer",
+      "status": "Débat professionnel",
+      "timing": "week",
+      "publicationDate": "2026-11-26",
+      "dateLabel": "Débat : 25 novembre 2026 · compte rendu : 26 novembre 2026",
+      "title": "Semaine de la Communication : la confiance dans l’auteur humain au cœur du débat sur l’IA",
+      "fact": "Le 25 novembre, pendant la Semaine de la Communication organisée du 23 au 27 novembre par la Filière Communication, un débat à France Télévisions réunit Le Monde, Publicis et des essayistes autour de l’IA. Le président du directoire du Monde rappelle que la charte du journal interdit depuis 2023 d’écrire des articles ou de créer des images avec l’IA, l’outil restant une aide à la traduction relue. Il estime qu’une perte de confiance dans l’auteur humain menacerait le modèle d’abonnement.",
+      "verdict": "Pour une marque qui vend de la confiance, la règle d’usage de l’IA fait partie de la promesse et se dit publiquement.",
+      "implication": "Pour la règle d’usage de l’IA du pôle : préciser ce qui ne sera jamais produit par l’IA (témoignages, portraits, prises de parole des dirigeants) et envisager de rendre cette règle publique.",
+      "limits": "Compte rendu de presse professionnelle d’un débat ; positions individuelles. Le chiffre sur la baisse d’audience des sites d’information cité au débat relève du référencement, suivi par le pôle Growth, Digital & Data.",
+      "sources": [
+        {
+          "name": "IA et communication : entre révolution des métiers et souveraineté, les professionnels cherchent leur place",
+          "publisher": "The Media Leader France",
+          "date": "26 novembre 2026",
+          "url": "https://fr.themedialeader.com/ia-et-communication-entre-revolution-des-metiers-et-souverainete-les-professionnels-cherchent-leur-place/",
+          "type": "Presse professionnelle"
+        },
+        {
+          "name": "Révolution technologique, défi démocratique et créativité française, la filière se mobilise",
+          "publisher": "CB News",
+          "date": "16 novembre 2026",
+          "url": "https://www.cbnews.fr/node/104396",
+          "type": "Presse professionnelle — programme"
+        }
+      ]
+    },
+    {
+      "id": "boursobank-plateforme-moins-plus",
+      "axis": "horschamp",
+      "actor": "BoursoBank",
+      "label": "Comparer",
+      "priority": "Important",
+      "roadmap": "Considération",
+      "status": "Plateforme de marque lancée",
+      "timing": "week",
+      "publicationDate": "2026-11-23",
+      "dateLabel": "Affichage : à partir du 23 novembre 2026 · numérique : à partir du 26 novembre 2026",
+      "title": "BoursoBank traduit sa promesse en économies concrètes, film après film",
+      "fact": "Le 23 novembre, BoursoBank lance sa plateforme « Moins de banque, plus d’argent. » : 17 visuels et 8 films signés Buzzman mettent en scène un concert, un voyage, des travaux ou un mariage financés par les frais économisés. L’identité, revue par New Normal, garde le rose et simplifie la flèche, avec davantage de vraies personnes à l’image. Le plan média d’iProspect couvre près de 16 000 faces, les métros de Paris, Lille et Marseille et trois bâches sur des monuments, dont le Centre Pompidou.",
+      "verdict": "Chaque support porte une preuve chiffrable et une scène de vie : la promesse reste la même, la preuve change.",
+      "implication": "Pour la campagne de marque 360 : vérifier que chaque déclinaison (film, affiche de salon, format social) porte sa propre preuve vérifiable de la promesse de TBS Education, et que les repères graphiques suffisent à identifier l’École.",
+      "limits": "Communiqués de l’annonceur et de l’agence ; chiffres de visibilité déclarés par iProspect. Budget, réception et effet non publiés. Promesse de prix sans équivalent direct pour une école.",
+      "sources": [
+        {
+          "name": "BoursoBank dévoile sa nouvelle plateforme de marque « Moins de banque, plus d’argent. »",
+          "publisher": "BoursoBank",
+          "date": "23 novembre 2026",
+          "url": "https://www.boursobank-group.com/fr/espace-presse/communiques-de-presse/boursobank-devoile-sa-nouvelle-plateforme-de-marque-moins-de-banque-plus-d-argent-",
+          "type": "Source primaire, proposée par ChatGPT"
+        },
+        {
+          "name": "BoursoBank privatise le métro avec iProspect",
+          "publisher": "The Media Leader France",
+          "date": "23 novembre 2026",
+          "url": "https://fr.themedialeader.com/boursobank-lance-moins-de-banque-plus-dargent-avec-iprospect/",
+          "type": "Presse professionnelle — plan média"
+        }
+      ]
+    }
+  ],
+  "word": {
+    "term": "Co-création éditoriale",
+    "definition": "Mode de production où les personnes dont le contenu raconte l’expérience participent aux choix éditoriaux : sujet, point de vue, écriture ou montage.",
+    "context": "Chez UCL, l’équipe étudiante conçoit et écrit l’épisode avant l’enregistrement avec le studio de l’université.",
+    "caution": "Préciser qui choisit l’angle, qui valide la version finale et qui autorise la diffusion.",
+    "signal": "ucl-podcast-etudiant-londres",
+    "proposePar": "ChatGPT"
+  }
+}
